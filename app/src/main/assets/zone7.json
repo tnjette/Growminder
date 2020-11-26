@@ -1,0 +1,716 @@
+{"zone7":[
+    {
+        "id": "artichoke7",
+        "name" : "Artichoke",
+        "startInside" : "1,15",
+        "thinSeedlings" : "3,5",
+        "startHardenOff" : "3,15",
+        "startOutside" : "4,15",
+        "stopOutside" : "4,25",
+        "fertilizePlantsFirstTime" : "5,25",
+        "fertilizePlantsSecondTime" : "6,25",
+        "startHarvest" : "7,25",
+        "season" : "perennial"
+    },
+    {
+        "id": "beansshell7",
+        "name" : "Shelling Beans",
+        "round1" : {
+            "directOutside" : "5,15",
+            "stopOutside" : "6,15",
+            "startHarvest" : "8,5"
+        },
+        "round2" : {
+            "directOutside2" : "7,5",
+            "stopOutside2" : "7,15",
+            "startHarvest2" : "9,25"
+        },
+        "season" : "annual"
+        
+    },
+    {
+        "id": "beanssnap7",
+        "name" : "Snap Beans",
+        "round1" : {
+            "directOutside" : "5,5",
+            "stopOutside" : "5,25",
+            "startHarvest" : "7,5"
+        },
+        "round2" : {
+            "directOutside2" : "7,25",
+            "stopOutside2" : "8,5",
+            "startHarvest2" : "9,25"
+        },
+        "season" : "annual"
+    },
+    {
+        "id": "beets7",
+        "name" : "Beets",
+        "round1" : {
+            "startInside" : "2,15",
+            "startOutside" : "3,15",
+            "stopOutside" : "3,25",
+            "firstThin" : "4,5",
+            "secondThin" : "4,15",
+            "startHarvest" : "5,25"
+        },
+        "round2" : {
+            "directOutside2" : "7,15",
+            "stopOutside2" : "7,25",
+            "firstThin2" : "8,5",
+            "secondThin2" : "8,15",
+            "startHarvest2" : "9,25"
+        },
+        "season" : "annual"
+    },
+    {
+        "id": "broccoli7",
+        "name" : "Broccoli",
+        "round1" : {
+            "startInside" : "2,5",
+            "fertilizePlantsFirstTime" : "3,5",
+            "startHardenOff" : "3,15",
+            "startOutside" : "3,25",
+            "stopOutside" : "4,5",
+            "startHarvest" : "5,25"
+        },
+        "round2" : {
+            "startInside2" : "5,25",
+            "fertilizePlantsFirstTime2" : "6,25",
+            "startHardenOff2" : "7,5",
+            "startOutside2" : "7,15",
+            "stopOutside2" : "8,5",
+            "startHarvest2" : "10,5"
+        },
+        "season" : "annual"
+    },
+    {
+        "id": "brusselssprouts7",
+        "name" : "Brussels Sprouts",
+        "round1" : {
+            "startInside" : "1,5",
+            "fertilizePlantsFirstTime" : "1,25",
+            "startOutsideCovered" : "2,5",
+            "stopOutside" : "2,15",
+            "fertilizePlantsSecondTime" : "3,25",
+            "startHarvest" : "5,5"
+        },
+        "round2" : {
+            "startInside2" : "5,15",
+            "fertilizePlantsFirstTime2" : "6,25",
+            "startOutside2" : "7,5",
+            "stopOutside2" : "7,15",
+            "fertilizePlantsSecondTime2" : "9,5",
+            "startHarvest2" : "10,25"
+        },
+        "season" : "annual"
+    },
+    {
+        "id": "cabbage7",
+        "name" : "Cabbage",
+        "round1" : {
+            "startInside" : "2,15",
+            "startHardenOff" : "3,15",
+            "startOutside" : "3,25",
+            "stopOutside" : "4,5",
+            "fertilizePlantsFirstTime" : "4,15",
+            "startHarvest" : "6,15"
+        },
+        "round2" : {
+            "startInside2" : "7,5",
+            "startOutside2" : "8,15",
+            "stopOutside2" : "8,25",
+            "fertilizePlantsFirstTime2" : "9,5",
+            "startHarvest2" : "10,25"
+        },
+        "season" : "cabbage"
+    },
+    {
+        "id": "cantaloupes7",
+        "name" : "Cantaloupes",
+        "directOutside" : "4,25",
+        "stopOutside" : "5,25",
+        "firstThin" : "6,25",
+        "startHarvest" : "9,5",
+        "season" : "annual"
+    },
+    {
+        "id": "carrots7",
+        "name" : "Carrots",
+        "round1" : {
+            "directOutside" : "3,25",
+            "stopOutside" : "4,15",
+            "firstThin" : "5,5",
+            "secondThin" : "5,25",
+            "startHarvest" : "6,25"
+        },
+        "round2" : {
+            "directOutside2Covered" : "8,15",
+            "stopOutside2" : "9,15",
+            "firstThin2" : "9,25",
+            "secondThin2" : "10,5",
+            "startHarvest2" : "11,5"
+        },
+        "season" : "annual"
+    },
+    {
+        "id": "cauliflower7",
+        "name" : "Cauliflower",
+        "round1" : {
+            "startInside" : "1,25",
+            "startOutside" : "3,5",
+            "stopOutside" : "3,25",
+            "blanch" : "4,15",
+            "startHarvest" : "5,5"
+        },
+        "round2" : {
+            "startInside2" : "8,5",
+            "startOutside2" : "9,5",
+            "stopOutside2" : "9,25",
+            "blanch2" : "10,5",
+            "startHarvest2" : "10,25"
+        },
+        "season" : "annual"
+    },
+    {
+        "id": "celery7",
+        "name" : "Celery",
+        "startInside" : "1,15",
+        "startHardenOff" : "3,25",
+        "startOutsideCovered" : "4,5",
+        "stopOutside" : "5,5",
+        "firstMulch" : "5,15",
+        "fertilizePlantsFirstTime" : "5,25",
+        "fertilizePlantsSecondTime" : "6,25",
+        "startHarvest" : "7,5",
+        "season" : "annual"
+    },
+    {
+        "id": "chard7",
+        "name" : "Chard",
+        "round1" : {
+            "startInside" : "3,5",
+            "firstThin" : "3,25",
+            "startOutside" : "4,5",
+            "stopOutside" : "4,25",
+            "startHarvest" : "5,25"
+        },
+        "round2" : {
+            "directOutside2Covered" : "8,15",
+            "stopOutside2" : "8,25",
+            "firstThin2" : "9,5",
+            "secondThin2" : "9,15",
+            "startHarvest2" : "10,15"
+        },
+        "season" : "annual"
+    },
+    {
+        "id": "chinesecabbage7",
+        "name" : "Chinese cabbage",
+        "round1" : {
+            "directOutside" : "3,5",
+            "stopOutside" : "3,15",
+            "startHarvest" : "5,5"
+        },
+        "round2" : {
+            "directOutside2" : "9,5",
+            "stopOutside2" : "10,5",
+            "startHarvest2" : "11,5"
+        },
+        "season" : "annual"
+    },
+    {
+        "id": "chives7",
+        "name" : "Chives",
+        "round1" : {
+            "directOutside" : "4,15",
+            "stopOutside" : "5,15",
+            "firstThin" : "5,5",
+            "startHarvest" : "6,15",
+            "fertilizePlantsSecondTime" : "6,25"
+        },
+        "round2" : {
+            "directOutside2" : "8,15",
+            "stopOutside2" : "9,15",
+            "firstThin2" : "9,25",
+            "startHarvest2" : "10,15",
+            "fertilizePlantsSecondTime2" : "10,25"
+        },
+        "season" : "perennial"
+    },
+    {
+        "id" : "collardgreens7",
+        "name" : "Collard Greens",
+        "round1" : {
+            "startInside" : "2,25",
+            "startOutside" : "3,15",
+            "stopOutside" : "3,25",
+            "fertilizePlantsFirstTime" : "4,5",
+            "fertilizePlantsSecondTime" : "5,5",
+            "fertilizePlantsThirdTime" : "6,5",
+            "startHarvest" : "5,15"
+        },
+        "round2" : {
+            "directOutside2" : "7,25",
+            "stopOutside2" : "8,25",
+            "fertilizePlantsFirstTime2" : "9,5",
+            "fertilizePlantsSecondTime2" : "10,5",
+            "fertilizePlantsThirdTime2" : "11,5",
+            "startHarvest2" : "10,25"
+        },
+        "season" : "annual"
+    },
+    {
+        "id" : "cornsweet7",
+        "name" : "Corn",
+        "round1" : {
+            "directOutside" : "4,25",
+            "stopOutside" : "5,25",
+            "firstThin" : "5,15",
+            "startHarvest" : "7,25"
+        },
+        "round2" : {
+            "directOutside2" : "6,5",
+            "stopOutside2" : "6,25",
+            "firstThin2" : "7,5",
+            "startHarvest2" : "9,25"
+        },
+        "season" : "annual"
+    },
+    {
+        "id" : "cucumbersslicing7",
+        "name" : "Slicing Cucumbers",
+        "round1" : {
+            "directOutside" : "4,25",
+            "stopOutside" : "5,5",
+            "firstThin" : "5,15",
+            "firstMulch" : "5,25",
+            "startHarvest" : "6,25"
+        },
+        "round2" : {
+            "directOutside2" : "7,25",
+            "stopOutside2" : "8,5",
+            "firstThin2" : "8,15",
+            "firstMulch2" : "8,25",
+            "startHarvest2" : "9,25"
+        },
+        "season" : "annual"
+    },
+    {
+        "id" : "cucumberspickle7",
+        "name" : "Pickling Cucumbers",
+        "round1" : {
+            "directOutside" : "4,25",
+            "stopOutside" : "5,5",
+            "firstThin" : "5,15",
+            "firstMulch" : "5,25",
+            "startHarvest" : "6,25"
+        },
+        "round2" : {
+            "directOutside2" : "7,25",
+            "stopOutside2" : "8,5",
+            "firstThin2" : "8,15",
+            "firstMulch2" : "8,25",
+            "startHarvest2" : "9,25"
+        },
+        "season" : "annual"
+    },
+    {
+        "id": "dill7",
+        "name" : "Dill",
+        "round1" : {
+            "directOutside" : "4,15",
+            "stopOutside" : "4,25",
+            "startHarvest" : "7,5"
+        },
+        "round2" : {
+            "directOutside2" : "8,15",
+            "stopOutside2" : "8,25",
+            "startHarvest2" : "11,5"
+        },
+        "season" : "biennial"
+    },
+    {
+        "id": "eggplants7",
+        "name" : "Eggplants",
+        "startInside" : "3,5",
+        "startHardenOff" : "4,25",
+        "fertilizeBed" : "5,5",
+        "startOutsideCovered" : "5,15",
+        "stopOutside" : "6,5",
+        "firstMulch" : "6,25",
+        "startHarvest" : "8,15",
+        "season" : "annual"
+    },
+    {
+        "id": "endive7",
+        "name" : "Endive",
+        "round1" : {
+            "startInside" : "2,15",
+            "startOutside" : "3,15",
+            "stopOutside" : "4,5",
+            "blanch" : "4,25",
+            "startHarvest" : "5,15"
+        },
+        "round2" : {
+            "startInside2" : "7,5",
+            "startOutside2" : "8,5",
+            "stopOutside2" : "8,15",
+            "blanch2" : "9,15",
+            "startHarvest2" : "10,5"
+        },
+        "season" : "annual"
+    },
+    {
+        "id": "garlic7",
+        "name" : "Garlic",
+        "directOutside" : "9,15",
+        "stopOutside" : "10,5",
+        "changeWaterCycle" : "n,4,5",
+        "removeMulch" : "n,4,15",
+        "startHarvest" : "n,6,25",
+        "season" : "annual"
+    },
+    {
+        "id": "kale7",
+        "name" : "Kale",
+        "round1" : {
+            "startInside" : "1,15",
+            "startHardenOff" : "2,25",
+            "startOutsideCovered" : "3,5",
+            "stopOutside" : "4,15",
+            "startHarvest" : "5,5"
+        },
+        "round2" : {
+            "directOutside2Covered" : "8,15",
+            "firstThin2" : "9,5",
+            "firstMulch2" : "9,15",
+            "stopOutside2" : "9,25",
+            "startHarvest2" : "10,15",
+            "secondMulch2" : "10,25"
+        },
+        "season" : "annual"
+    },
+    {
+        "id" : "kohlrabi7",
+        "name" : "Kohlrabi",
+        "round1" : {
+            "startInside" : "2,15",
+            "startHardenOff" : "3,5",
+            "startOutside" : "3,15",
+            "stopOutside" : "4,5",
+            "startHarvest" : "5,25"
+        },
+        "round2" : {
+            "directOutside2" : "8,15",
+            "stopOutside2" : "9,5",
+            "firstMulch2" : "9,15",
+            "startHarvest2" : "10,25"
+        },
+        "season" : "annual"
+    },
+    {
+        "id": "leeks7",
+        "name" : "Leeks",
+        "round1" : {
+            "startInside" : "1,25",
+            "startHardenOff" : "3,25",
+            "startOutside" : "4,5",
+            "stopOutside" : "4,15",
+            "firstBlanch" : "5,5",
+            "startHarvest" : "5,25",
+            "secondBlanch" : "6,5"
+        },
+        "round2" : {
+            "directOutside2" : "8,25",
+            "stopOutside2" : "9,25",
+            "firstMulch2" : "10,5",
+            "firstBlanch2" : "10,15",
+            "secondBlanch2" : "11,15",
+            "startHarvest2" : "11,25"
+        },
+        "season" : "annual"
+    },
+    {
+        "id": "lettucehead7",
+        "name" : "Lettuce (head)",
+        "round1" : {
+            "startInside" : "2,25",
+            "startHardenOff" : "3,25",
+            "startOutside" : "4,5",
+            "stopOutside" : "4,25",
+            "fertilizePlantsFirstTime" : "5,5",
+            "startHarvest" : "5,25"
+        },
+        "round2" : {
+            "firstMulch2" : "8,5",
+            "directOutside2Covered" : "8,25",
+            "stopOutside2" : "9,5",
+            "firstThin2" : "9,15",
+            "fertilizePlantsFirstTime2" : "9,25",
+            "startHarvest2" : "10,25"
+        },
+        "season" : "annual"
+    },
+    {
+        "id": "lettuceleaf7",
+        "name" : "Lettuce (leaf)",
+        "round1" : {
+            "startInside" : "2,25",
+            "startHardenOff" : "3,25",
+            "startOutside" : "4,5",
+            "stopOutside" : "4,25",
+            "fertilizePlantsFirstTime" : "5,5",
+            "startHarvest" : "5,25"
+        },
+        "round2" : {
+            "firstMulch2" : "8,5",
+            "directOutside2Covered" : "8,25",
+            "stopOutside2" : "9,5",
+            "firstThin2" : "9,15",
+            "fertilizePlantsFirstTime2" : "9,25",
+            "startHarvest2" : "10,25"
+        },
+        "season" : "annual"
+    },
+    {   "id": "okra7",
+        "name" : "Okra",
+        "startInside" : "3,25",
+        "startOutside" : "6,5",
+        "stopOutside" : "6,15",
+        "firstMulch" : "6,25",
+        "startHarvest" : "7,25",
+        "season" : "annual"
+    },
+    {
+        "id": "onions7",
+        "name" : "Onions",
+        "round1" : {
+            "directOutside" : "4,25",
+            "stopOutside" : "5,5",
+            "fertilizePlantsFirstTime" : "6,5",
+            "fertilizePlantsSecondTime" : "7,5",
+            "startHarvest" : "7,25"
+        },
+        "round2" : {
+            "startInside2" : "6,15",
+            "startOutside2Covered" : "8,25",
+            "stopOutside2" : "9,15",
+            "fertilizePlantsFirstTime2" : "10,15",
+            "startHarvest2" : "11,5",
+            "fertilizePlantsSecondTime2" : "11,15"
+        },
+        "season" : "annual"
+    },
+    {
+        "id": "parsley7",
+        "name" : "Parsley",
+        "startInside" : "1,15",
+        "startOutsideCovered" : "4,15",
+        "stopOutside" : "4,25",
+        "startHarvest" : "7,5",
+        "season" : "annual"
+    },
+    {
+        "id" : "parsnips7",
+        "name" : "Parsnips",
+        "directOutside" : "7,5",
+        "stopOutside" : "7,25",
+        "firstThin" : "8,15",
+        "startHarvest" : "11,15",
+        "season" : "annual"
+    },
+    {
+        "id" : "peas7",
+        "name" : "Peas",
+        "directOutside" : "2,25",
+        "stopOutside" : "3,25",
+        "startHarvest" : "5,15",
+        "season" : "annual"
+    },
+    {
+        "id" : "pepperssweet7",
+        "name" : "Sweet Peppers",
+        "startInside" : "2,25",
+        "firstThin" : "3,25",
+        "startHardenOff" : "5,5",
+        "startOutside" : "5,15",
+        "stopOutside" : "6,15",
+        "fertilizePlantsFirstTime" : "6,25",
+        "startHarvest" : "7,25",
+        "season" : "annual"
+    },
+    {
+        "id": "peppershot7",
+        "name" : "Chili Peppers",
+        "startInside" : "2,25",
+        "firstThin" : "3,25",
+        "startHardenOff" : "5,5",
+        "startOutside" : "5,15",
+        "stopOutside" : "6,5",
+        "fertilizePlantsFirstTime" : "6,25",
+        "startHarvest" : "7,25",
+        "season" : "annual"
+    },
+    {
+        "id" : "potatoeswhite7",
+        "name" : "Potatoes",
+        "round1" : {
+            "directOutside" : "4,5",
+            "stopOutside" : "5,5",
+            "changeWaterCycle" : "5,15",
+            "firstBlanch" : "5,25",
+            "secondBlanch" : "6,15",
+            "startHarvest" : "7,5"
+        },
+        "round2" : {
+            "directOutside2" : "8,5",
+            "stopOutside2" : "8,25",
+            "changeWaterCycle2" : "9,15",
+            "firstBlanch2" : "9,25",
+            "secondBlanch2" : "10,15",
+            "startHarvest2" : "11,5"
+        },
+        "season" : "annual"
+    },
+    {
+        "id" : "pumpkins7",
+        "name" : "Pumpkins",
+        "directOutside" : "6,15",
+        "stopOutside" : "7,15",
+        "firstThin" : "7,25",
+        "fertilizePlantsFirstTime" : "8,5",
+        "fertilizePlantsSecondTime" : "8,25",
+        "startHarvest" : "9,15",
+        "season" : "annual"
+    },
+    {
+        "id" : "radish7",
+        "name" : "Radish",
+        "round1" : {
+            "directOutside" : "3,5",
+            "stopOutside" : "3,25",
+            "firstThin" : "3,15",
+            "startHarvest" : "4,5"
+        },
+        "round2" : {
+            "directOutside2" : "8,5",
+            "firstThin2" : "8,15",
+            "stopOutside2" : "8,25",
+            "startHarvest2" : "9,5"
+        },
+        "season" : "annual"
+    },
+    {
+        "id" : "spinach7",
+        "name" : "Spinach",
+        "round1" : {
+            "fertilizeBed" : "3,15",
+            "directOutside" : "3,25",
+            "stopOutside" : "4,15",
+            "firstThin" : "4,25",
+            "firstMulch" : "5,5",
+            "startHarvest" : "5,15"
+        },
+        "round2" : {
+            "fertilizeBed2" : "7,25",
+            "directOutside2" : "8,5",
+            "firstThin2" : "8,25",
+            "firstMulch2" : "9,5",
+            "stopOutside2" : "9,15",
+            "startHarvest2" : "9,15"
+        },
+        "season" : "annual"
+    },
+    {
+        "id" : "squashsummer7",
+        "name" : "Summer Squash",
+        "round1" : {
+            "startInside" : "3,5",
+            "startHardenOff" : "4,5",
+            "startOutside" : "4,15",
+            "stopOutside" : "5,15",
+            "startHarvest" : "6,5"
+        },
+        "round2" : {
+            "startInside2" : "5,25",
+            "startHardenOff2" : "6,15",
+            "startOutside2" : "6,25",
+            "stopOutside2" : "7,15",
+            "startHarvest2" : "8,15"
+        },
+        "season" : "annual"
+    },
+    {
+        "id" : "squashwinter7",
+        "name" : "Winter Squash",
+        "round1" : {
+            "startInside" : "4,5",
+            "startHardenOff" : "5,5",
+            "startOutside" : "5,15",
+            "stopOutside" : "6,15",
+            "startHarvest" : "8,5"
+        },
+        "round2" : {
+            "startInside2" : "5,15",
+            "startHardenOff2" : "6,15",
+            "startOutside2" : "6,25",
+            "stopOutside2" : "7,15",
+            "firstThin2" : "7,25",
+            "startHarvest2" : "10,5"
+        },
+        "season" : "annual"
+    },
+    {
+        "id" : "tomatoes7",
+        "name" : "Tomatoes",
+        "startInside" : "2,15",
+        "transplantToLargerContainer" : "4,5",
+        "startHardenOff" : "4,15",
+        "startOutside" : "4,25",
+        "stopOutside" : "6,15",
+        "firstMulch" : "6,25",
+        "fertilizePlantsFirstTime" : "7,15",
+        "startHarvest" : "7,25",
+        "fertilizePlantsSecondTime" : "8,5",
+        "season" : "annual"
+    },
+    {
+        "id" : "tomatillos7",
+        "name" : "Tomatillos",
+        "startInside" : "2,15",
+        "startHardenOff" : "4,15",
+        "startOutside" : "4,25",
+        "stopOutside" : "6,15",
+        "startHarvest" : "7,25",
+        "season" : "annual"
+    },
+    {
+        "id" : "turnips7",
+        "name" : "Turnips",
+        "round1" : {
+            "directOutside" : "3,15",
+            "firstMulch" : "4,15",
+            "stopOutside" : "5,5",
+            "startHarvest" : "5,25"
+        },
+        "round2" : {
+            "directOutside2" : "8,25",
+            "stopOutside2" : "9,5",
+            "firstMulch2" : "9,15",
+            "startHarvest2" : "11,5"
+        },
+        "season" : "annual"
+    },
+    {
+        "id" : "watermelons7",
+        "name" : "Watermelons",
+        "startInside" : "3,25",
+        "firstThin" : "4,15",
+        "startOutside" : "4,25",
+        "stopOutside" : "5,25",
+        "startHarvest" : "7,25",
+        "season" : "annual"
+    }
+]}
+   

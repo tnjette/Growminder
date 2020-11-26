@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/aec_parent_cl"
+    >
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/events_calendar_toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@color/actionbar"
+        app:titleTextColor="@color/white"
+        app:layout_constraintTop_toTopOf="parent"
+        app:theme="@style/HeaderBar"
+        android:elevation="4dp"
+        >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center_vertical"
+            >
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/event_calendar_toolbar_title"
+                android:textColor="#ffffff"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:gravity="center_horizontal"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/event_calendar_toolbar_subtitle"
+                android:textSize="12sp"
+                android:textStyle="italic"
+                android:textColor="#ffffff"
+                android:layout_marginLeft="12dp"
+                />
+            <View
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                android:layout_weight="1" />
+            <Button
+                android:id="@+id/seeEntireCalendarButton"
+                android:background="@drawable/see_entire_calendar_rounded_corner_button"
+                android:paddingTop="2dp"
+                android:paddingBottom="2dp"
+                android:paddingRight="6dp"
+                android:paddingLeft="6dp"
+                android:paddingStart="6dp"
+                android:paddingEnd="6dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:maxWidth="80dp"
+                android:textSize="10sp"
+                android:textColor="#ffffff"
+                android:layout_marginRight="8dp"
+                android:layout_marginEnd="8dp"
+                />
+        </LinearLayout>
+    </android.support.v7.widget.Toolbar>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/activity_events_calendar_background"
+        android:scaleType="centerCrop"
+        />
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#80000000"
+        android:id="@+id/because"
+        />
+
+
+    <android.support.constraint.ConstraintLayout
+        android:id="@+id/eventCalActivity_mainUIFrame"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        app:layout_constraintTop_toBottomOf="@id/events_calendar_toolbar"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        >
+
+        <!--the constraint layout above used to be a linear layout-->
+
+
+            <RelativeLayout
+                android:id="@+id/pieUIBlock"
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_marginTop="?attr/actionBarSize"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintLeft_toLeftOf="parent"
+                app:layout_constraintBottom_toTopOf="@id/eventActivityAccommodatingTextFrame"
+                app:layout_constraintVertical_weight="1"
+            >            <!---this keeps coming up as 87-->
+
+                <com.github.mikephil.charting.charts.PieChart
+                android:id="@+id/yearScale"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                />
+                <com.github.mikephil.charting.charts.PieChart
+                android:id="@+id/animatedEventsCalendarPieView"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"/>
+            </RelativeLayout>
+
+            <LinearLayout
+                android:id="@+id/eventActivityAccommodatingTextFrame"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:orientation="vertical"
+                app:layout_constraintLeft_toLeftOf="parent"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/pieUIBlock"
+                android:layout_marginBottom="16dp"
+                app:layout_constraintVertical_weight="1"
+                >
+
+                <TextView
+                    android:id="@+id/currentPhaseTitle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="16dp"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:textSize="16sp"
+                    android:textStyle="bold|italic"
+                    />
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/startDateStr"
+                    android:orientation="horizontal"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="6dp"
+                    android:textSize="14sp">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/startDateStrBeginning"
+                        />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/mostRecentEventStartDate"
+                        android:textStyle="bold"
+                        android:layout_marginLeft="4dp"
+                        android:layout_marginStart="4dp"
+                        />
+                </LinearLayout>
+
+                <!--what if this layer was a constraint layout??-->
+                <android.support.constraint.ConstraintLayout
+                    android:id="@+id/eventTextFrame"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/rounded_corner_notification_detail"
+                    android:layout_marginTop="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginRight="16dp"
+                    android:layout_marginEnd="16dp"
+                    >
+
+                    <TextView
+                        android:id="@+id/mostRecentEvent"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:textColor="#ffffff"
+                        android:textSize="14sp"
+                        app:layout_constraintTop_toTopOf="parent"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        app:layout_constraintRight_toRightOf="parent"
+                        app:layout_constraintLeft_toLeftOf="parent"
+                        android:paddingTop="16dp"
+                        android:paddingLeft="32dp"
+                        android:paddingStart="32dp"
+                        android:paddingRight="32dp"
+                        android:paddingEnd="32dp"
+                        android:paddingBottom="0dp"
+                        />
+                    <TextView
+                        android:id="@+id/expandPrompt"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/piechartpresent"
+                        android:textSize="16sp"
+                        android:textStyle="bold"
+                        app:layout_constraintTop_toBottomOf="@id/mostRecentEvent"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintLeft_toLeftOf="parent"
+                        android:paddingLeft="32dp"
+                        android:paddingStart="32dp"
+                        android:paddingEnd="0dp"
+                        android:paddingRight="0dp"
+                        android:paddingBottom="16dp"
+                        />
+                </android.support.constraint.ConstraintLayout>
+
+
+                <!--original format of this UI section. updating above...-->
+                <!--<LinearLayout
+                    android:id="@+id/eventTextFrame"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/rounded_corner_notification_detail"
+                    android:layout_marginTop="16dp"
+                    android:layout_marginLeft="24dp"
+                    android:layout_marginStart="24dp"
+                    android:layout_marginRight="24dp"
+                    android:layout_marginEnd="24dp"
+                    >
+
+                    <!-update-->
+                    <!--<TextView
+                        android:id="@+id/mostRecentEvent"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:textColor="#ffffff"
+                        android:textSize="14sp"
+                        android:layout_margin="16dp"
+                        />
+                    <!- this whole update is about making this component work, which will enable the adaptability of the UI-->
+                    <!--<TextView
+                        android:id="@+id/expandPrompt"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/piechartpresent"
+                        android:textSize="16sp"
+                        android:textStyle="bold"
+                        />
+
+
+                    <!-this is the original textView <TextView
+                         android:id="@+id/mostRecentEvent"
+                         android:layout_width="wrap_content"
+                         android:layout_height="wrap_content"
+                         android:layout_gravity="center"
+                         android:textColor="#ffffff"
+                         android:textSize="14sp"
+                         android:background="@drawable/rounded_corner_notification_detail"
+                         android:padding="16dp"
+                         android:layout_marginTop="16dp"
+                         android:layout_marginLeft="24dp"
+                         android:layout_marginStart="24dp"
+                         android:layout_marginRight="24dp"
+                         android:layout_marginEnd="24dp"
+                         android:scrollbars="vertical"
+                         />-->
+                <!--</LinearLayout>-->
+                <!--end-->
+
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/endDateStr"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="16dp"
+                    android:textSize="14sp"
+                    android:orientation="horizontal"
+                    >
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/endDateStrBeginning"
+                        />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/mostRecentEventEndDate"
+                        android:textStyle="bold"
+                        android:layout_marginLeft="6dp"
+                        android:layout_marginStart="6dp"
+                        />
+                </LinearLayout>
+            </LinearLayout>
+    </android.support.constraint.ConstraintLayout>
+
+    <!--<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/fragment_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />-->
+
+
+    <!--<RelativeLayout
+        android:id="@+id/eventCalActivity_mainUIFrame"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+
+        <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="40dp">
+
+            <com.github.mikephil.charting.charts.PieChart
+                    android:id="@+id/animatedEventsCalendarPieView"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"/>
+
+        </RelativeLayout>
+
+
+
+        <LinearLayout
+            android:id="@+id/eventActivityAccommodatingTextFrame"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            >
+
+            <TextView
+                android:id="@+id/currentPhaseTitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:layout_marginStart="24dp"
+                android:layout_marginLeft="24dp"
+                android:textSize="16sp"
+                android:textStyle="bold|italic"
+                />
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/startDateStr"
+                android:orientation="horizontal"
+                android:layout_marginStart="24dp"
+                android:layout_marginLeft="24dp"
+                android:layout_marginTop="6dp"
+                android:textSize="14sp">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/startDateStrBeginning"
+                    />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/mostRecentEventStartDate"
+                    android:textStyle="bold"
+                    android:layout_marginLeft="6dp"
+                    android:layout_marginStart="6dp"
+                    />
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/mostRecentEvent"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:textColor="#ffffff"
+                android:textSize="14sp"
+                android:background="@drawable/rounded_corner_notification_detail"
+                android:padding="16dp"
+                android:layout_marginLeft="24dp"
+                android:layout_marginStart="24dp"
+                android:layout_marginRight="24dp"
+                android:layout_marginEnd="24dp"
+                android:layout_marginTop="16dp"
+                />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/endDateStr"
+                android:layout_marginStart="24dp"
+                android:layout_marginLeft="24dp"
+                android:layout_marginTop="16dp"
+                android:textSize="14sp"
+                android:orientation="horizontal"
+                >
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/endDateStrBeginning"
+                        />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/mostRecentEventEndDate"
+                        android:textStyle="bold"
+                        android:layout_marginLeft="6dp"
+                        android:layout_marginStart="6dp"
+                        />
+            </LinearLayout>
+        </LinearLayout>
+
+    </RelativeLayout> -->
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/events_calendar_background_fader_1"
+        android:background="#00000000"
+        />
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/events_calendar_background_fader_2"
+        android:background="#00000000"
+        />
+    <FrameLayout
+        android:id="@+id/your_placeholder"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="?attr/actionBarSize"
+        android:elevation="100dp">
+    </FrameLayout>
+</android.support.constraint.ConstraintLayout>

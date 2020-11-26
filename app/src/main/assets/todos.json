@@ -1,0 +1,1605 @@
+{
+    "artichoke" : {
+        "sun": "full sun to partial shade",
+        "soil" : ", loamy and well-drained soil",
+        "spacing" : ", and 48 - 60 inches of space per plant, given 48-60 inches of space between rows",
+        "water" : ", heavy watering",
+        "fertilize" : ", fertilizer applied monthly",
+        "mulch":"",
+
+        "startInside" : "Starting your Artichokes from seed, indoors, is recommended in your zone. Presoak the seeds for 24 hours before sowing. Sow three seeds per 3-4 inch wide pot of mixed compost and soil-based potting medium, at a depth of 0.25 to 0.5 inches. Seeds will need a soil temperature of 70-75 degrees F. for germination.",
+        "thinSeedlings" : "Thin each pot to a single seedling.",
+        "startHardenOff" : "Begin hardening-off your Artichoke seedlings. Seedlings will need an air temperature between 33-40 degrees F.",
+        "startOutside" : {
+            "begin" : "Begin transplanting your Artichoke seedlings into loamy, well-draining soil",
+            "uncovered" : ",",
+            "covered" : ", under cover of either a high-tunnel or greenhouse,",
+            "remainingBoth" : " and in a part of your garden that receives full sun to partial shade. Space the transplants 48-60 inches apart, in rows that are 48-60 inches apart, with the crown of the plant above the soil line. Needs full-sun to partial shade. Water Heavily. Apply a 4-inch layer of mulch after transplanting. "
+        },
+        "stopOutside" : "Cease planting or transplanting your Artichoke seedlings, if you have not already.",
+        "fertilizePlantsFirstTime" : "Fertilize your Artichoke plants with a high-nitrogen liquid fertilizer. Also, if buds have begun to form, replace the mulch around the base with an equal amount of compost.",
+        "fertilizePlantsSecondTime": "Fertilize with high-nitrogen liquid fertilizer.",
+        "startHarvest" : "If the buds are at least 3-4 inches wide and still tight, you should be able to start harvesting them by cutting the stem 2-3 inches below the bud.",
+        "startInside2" : "If you choose to plant a second round of Artichokes, now is the time! Starting your Artichokes from seed is recommended in your zone. Presoak the seeds for 24 hours before sowing. Sow three seeds per 3-4 inch wide pot of mixed compost and soil-based potting medium, at a depth of 0.25 to 0.5 inches. Seeds will need a soil temperature of 70-75 degrees F. for germination."
+        ,
+        "thinSeedlings2" : "For your second round of Artichokes, thin each pot to a single seedling.",
+        "startHardenOff2" : "Begin hardening-off your second round of Artichoke seedlings. Seedlings will need an air temperature between 33-40 degrees F.",
+        "startOutside2" : {
+            "begin" : "Begin transplanting your second round of Artichoke seedlings into loamy, well-draining soil",
+            "uncovered" : ",",
+            "covered" : ", in either a high-tunnel or greenhouse,",
+            "remainingBoth" : " and in a part of your garden that receives full sun to partial shade. Space the transplants 48-60 inches apart, in rows that are 48-60 inches apart, with the crown of the plant above the soil line. Needs full-sun to partial shade. Water Heavily. Apply a 4-inch layer of mulch after transplanting. "
+        },
+        "stopOutside2" : "Cease planting or transplanting your second round of Artichoke seedlings, if you have not already.",
+        "fertilizePlantsFirstTime2" : "Fertilize your second round of Artichoke plants with a high-nitrogen liquid fertilizer. Also, if buds have begun to form, replace the mulch around the base with an equal amount of compost.",
+        "fertilizePlantsSecondTime2": "Fertilize your second round of Artichoke plants with high-nitrogen liquid fertilizer.",
+        "startHarvest2" : "If the buds are at least 3-4 inches wide and still tight, you should be able to start harvesting your second round of Artichokes by cutting the stem 2-3 inches below the bud."
+    },
+
+    "beansshell": {
+        "sun" : "full sun",
+        "soil" : ", well draining soil",
+        "spacing" : ", and 6 - 24 inches of spacing per plant, given 12 - 24 inches of space between rows",
+        "water" : ", regular watering (especially on hot days)",
+        "mulch" : ", a 1 - 2 inch layer of mulch applied after seedlings emerge",
+        "fertilize" : "",
+
+        "startInside" : "In your zone, it's recommended to start your (shelling) beans indoors in individual peat pots.",
+
+        "startOutside" : {
+            "begin" : "",
+            "covered" : "",
+            "uncovered" : "Begin planting your (shelling) beans outside. If you have seedlings to transplant, do so carefully so as not to disturb the roots. Otherwise, plant your seeds to a depth of 1 - 1.5 inches. Space your plants 4-6 inches apart if you are growing them as bush beans, or 12-24 inches apart if you are growing them as pole beans with the use of trellises for support. Space your rows 12-24 inches apart. After planting, apply a 1-2 inch layer of mulch.",
+            "remainingBoth" : ""
+        },
+        "directOutside" : {
+            "begin" : "",
+            "uncovered" : "Begin planting your (shelling) beans outside. Plant your seeds to a depth of 1 - 1.5 inches. Space your plants 4-6 inches apart if you are growing them as bush beans, or 12-24 inches apart if you are growing them as pole beans with the use of trellises for support. Space your rows 12-24 inches apart. After planting, apply a 1-2 inch layer of mulch.",
+            "remainingBoth" : ""
+        },
+        "stopOutside" : "Set your remaining (shelling) bean seeds and transplants in the ground and then cease planting, if you haven't already.",
+
+        "startHarvest" : "If your (shelling) beans shells have changed color and the seeds are fully formed, you can start harvesting them!",
+
+        "startInside2" : "For a fall-planting of (shelling) beans, begin seeding. In your zone, it's recommended to start your shelling beans indoors in individual peat pots at a depth of 1 inch.",
+
+        "startOutside2" : {
+            "begin" : "",
+            "covered" : "",
+            "uncovered" : "Begin planting your fall-planting (shelling) beans outside. If you have seedlings to transplant, do so carefully so as not to disturb the roots. Otherwise, plant your (shelling) bean seeds to a depth of 1 - 1.5 inches. Space your plants 4-6 inches apart if you are growing them as bush beans, or 12-24 inches apart if you are growing them as pole beans with the use of trellises for support. Space your rows 12-24 inches apart. After planting, apply a 1-2 inch layer of mulch.",
+            "remainingBoth" : ""
+        },
+        "directOutside2" : {
+            "begin" : "",
+            "covered" : "",
+            "uncovered" : "Begin planting your fall-planting (shelling) beans outside. Plant your seeds to a depth of 1 - 1.5 inches. Space your plants 4-6 inches apart if you are growing them as bush beans, or 12-24 inches apart if you are growing them as pole beans with the use of trellises for support. Space your rows 12-24 inches apart. After planting, apply a 1-2 inch layer of mulch.",
+            "remainingBoth" : ""
+        },
+        "stopOutside2" : "Set your remaining fall-planting (shelling) bean seeds or transplants in the ground and then cease planting, if you haven't already.",
+
+        "startHarvest2" : "If your fall-planting (shelling) beans shells have changed color and the seeds are fully formed, you can start harvesting them!"
+    },
+
+    "beanssnap": {
+        "sun" : "full sun",
+        "soil" : ", well draining soil",
+        "spacing" : ", and 2 - 4 inches of spacing per plant if grown as bush beans, or 12 - 24 inches of spacing per plant if grown as pole beans, given 12 - 24 inches of spacing between rows",
+        "water" : ", regular watering (especially on hot days)",
+        "mulch" : ", a 1 inch layer of mulch applied after seedlings emerge",
+        "fertilize" : "",
+
+        "startInside" : "In your zone, it's recommended to start your (snap) beans indoors in individual peat pots at a depth of 1 inch.",
+        "startOutside" : {
+            "begin" : "",
+            "covered" : "",
+            "uncovered" : "Begin planting your (snap) beans outside. If you have seedlings to transplant, do so carefully so as not to disturb the roots. Otherwise, plant your (snap) bean seeds to a depth of 1 - 1.5 inches. Space your plants 2-4 inches apart if you are growing them as bush beans, or 12-24 inches apart if you are growing them as pole beans with the use of trellises for support. Space your rows 12-24 inches apart. After planting, apply a 1 inch layer of mulch.",
+            "remainingBoth" : ""
+        },
+        "directOutside" : {
+            "begin" : "",
+            "uncovered" : "Begin planting your (snap) beans outside. Plant your (snap) bean seeds to a depth of 1 - 1.5 inches. Space your plants 2-4 inches apart if you are growing them as bush beans, or 12-24 inches apart if you are growing them as pole beans with the use of trellises for support. Space your rows 12-24 inches apart. After planting, apply a 1 inch layer of mulch.",
+            "remainingBoth" : ""
+        },
+        "stopOutside" : "Set your remaining (snap) bean seeds or transplants in the ground and then cease planting, if you haven't already.",
+        "startHarvest" : "If your (snap) beans shells are crisp and seeds are undeveloped, begin harvesting!",
+
+        "startInside2" : "For a fall-planting of (snap) beans, begin seeding. In your zone, it's recommended to start your (snap) beans indoors in individual peat pots at a depth of 1 inch.",
+        "startOutside2" : {
+            "begin" : "",
+            "covered" : "",
+            "uncovered" : "Begin planting your fall-planting (snap) beans outside. If you have seedlings to transplant, do so carefully so as not to disturb the roots. Otherwise, plant your (snap) bean seeds to a depth of 1 - 1.5 inches. Space your plants 2-4 inches apart if you are growing them as bush beans, or 12-24 inches apart if you are growing them as pole beans with the use of trellises for support. Space your rows 12-24 inches apart. After planting, apply a 1 inch layer of mulch.",
+            "remainingBoth" : ""
+        },
+        "directOutside2" : {
+            "begin" : "",
+            "uncovered" : "Begin planting your fall-planting (snap) beans outside. Plant your (snap) bean seeds to a depth of 1 - 1.5 inches. Space your plants 2-4 inches apart if you are growing them as bush beans, or 12-24 inches apart if you are growing them as pole beans with the use of trellises for support. Space your rows 12-24 inches apart. After planting, apply a 1 inch layer of mulch.",
+            "remainingBoth" : ""
+        },
+        "stopOutside2" : "Set your remaining fall-planting (snap) bean seeds and transplants in the ground and then cease planting, if you haven't already.",
+        "startHarvest2" : "If your fall-planting (snap) beans shells are crisp and the seeds are undeveloped, begin harvesting!"
+    },
+
+    "beets": {
+        "sun" : "full sun",
+        "soil" : ", loamy and acidic soil",
+        "spacing" : ", and 1 - 2 inches of spacing per plant, given 12 inches of spacing between rows",
+        "water" : "",
+        "mulch" : "",
+        "fertilize" : "",
+
+        "startInside" : "In the spring, it's recommended to start your Beets indoors. Start your beet seeds in flats at a depth of 0.5 inches and spaced 1 inch apart.",
+
+        "startOutside" : {
+            "begin" : "Begin transplanting your seedlings or sowing your beet seeds into moist soil",
+            "uncovered" : ",",
+            "covered" : ", under-cover in either a high-tunnel or greenhouse,",
+            "remainingBoth" : " and in a part of your garden that receives full sun. Give each seed or transplant 1-2 inches of space, in rows that are 12 inches apart. Sow seeds to a depth of 1 inch."
+        },
+        "stopOutside" : "Set your remaining beet seeds and transplants in the ground and then cease planting, if you haven't already.",
+        "firstThin" : "Thin your beets to a distance of 1.5 - 2 inches. Carefully apply a 1-2 inch layer of mulch around the bases of the seedlings.",
+        "secondThin" : "Thin your beets to a distance of 3-4 inches.",
+        "startHarvest" : "If your beet roots are at least 1.5 inches in diameter, you can begin harvesting! If you are harvesting for beet greens, make sure the greens are at least 4 inches long.",
+
+        "directOutside2" : {
+            "begin" : "",
+            "uncovered" : "In the fall, you can easily sow beet seeds directly in your garden by sowing your beet seeds into moist soil and in a part of your garden that receives full sun.",
+            "remainingBoth" : "Give each seed 1 inch of space, in rows that are 12 inches apart. Sow seeds to a depth of 1 inch."
+        },
+        "stopOutside2" : "Set your remaining fall-planting beet seeds and transplants in the ground and then cease planting, if you haven't already.",
+        "firstThin2" : "Thin your fall-planting beets to a distance of 1.5 - 2 inches. Carefully apply a 1-2 inch layer of mulch around the bases of the seedlings.",
+        "secondThin2" : "Thin your fall-planting beets to a distance of 3-4 inches.",
+        "startHarvest2" : "If your fall-planting beet roots are at least 1.5 inches in diameter, you can begin harvesting! If you are harvesting for beet greens, make sure the greens are at least 4 inches long."
+    },
+
+    "broccoli": {
+
+        "sun" : "full sun",
+        "soil" : ", well draining soil",
+        "spacing" : ", and 12 - 24 inches of space per plant, given 24 - 36 inches of space between rows",
+        "water" : ", regular watering to keep soil moist",
+        "mulch" : ", a 1 inch layer of mulch applied after seedling emerge or after transplanting",
+        "fertilize" : ", liquid fertilizer or compost applied 2 - 3 weeks before transplanting",
+
+        "startInside" : "Begin sowing your Broccoli seeds into seedling flats indoors. ",
+        "fertilizePlantsFirstTime" : "Fertilize your broccoli seedlings with a liquid fertilizer.",
+        "startHardenOff" : "Begin hardening-off your brocolli seedlings by setting them in the garden during the day in their seedling trays.",
+        "startOutside" : {
+            "begin" : "Begin transplanting your Broccoli seedlings into moist, fertile soil",
+            "covered" : ", under cover of high-tunnels or row-covers",
+            "uncovered" : ",",
+            "remainingBoth" : " and in a part of your garden that receives full sun. Till in 3-4 inches of manure and compost before setting plants. Space your plants 12-24 inches apart, in rows that are 24-36 inches apart."
+        },
+        "directOutside" : {
+            "begin" : "Begin directly sowing your Broccoli Seeds into moist, fertile soil",
+            "covered" : ", under cover of either high-tunnels or floating row-covers",
+            "uncovered" : ",",
+            "remainingBoth" : " and in a part of your garden that receives full sun. Till in 3-4 inches of manure and compost before sowing seeds. Space your seeds 12-24 inches apart at a depth of 1 in, and in rows that are 24-36 inches apart."
+        },
+        "stopOutside" : "Set your remaining Broccoli seeds and transplants in the ground and then cease planting, if you haven't already.",
+        "startHarvest" : "If the Broccoli buds are still tight and head is consolidated, you may begin harvesting! Slice the stalk several inches below the head with a knife.",
+
+        "startInside2" : "Begin sowing your Fall Broccoli seeds into seedling flats indoors. ",
+        "fertilizePlantsFirstTime2" : "Fertilize your Fall Broccoli seedlings with a liquid fertilizer.",
+        "startHardenOff2" : "Begin hardening-off your Fall Brocolli seedlings by setting them in the garden during the day in their seedling trays.",
+        "startOutside2" : {
+            "begin" : "Begin transplanting your Fall Broccoli seedlings into moist, fertile soil",
+            "covered" : ", under cover of high-tunnels or row-covers,",
+            "uncovered" : ",",
+            "remainingBoth" : " and in a part of your garden that receives full sun. Till in 3-4 inches of manure and compost before setting plants, or seeds in the ground. Space your plants or seeds 12-24 inches apart, in rows that are 24-36 inches apart."
+        },
+        "directOutside2" : {
+            "begin" : "Begin directly sowing your Fall Broccoli Seeds into moist, fertile soil",
+            "covered" : ", under cover of either high-tunnels or floating row-covers",
+            "uncovered" : ",",
+            "remainingBoth" : " and in a part of your garden that receives full sun. Till in 3-4 inches of manure and compost before sowing seeds. Space your seeds 12-24 inches apart at a depth of 1 in, and in rows that are 24-36 inches apart."
+        },
+        "stopOutside2" : "Set your remaining Fall Broccoli seeds and transplants in the ground and then cease planting, if you haven't already.",
+        "startHarvest2" : "If the Fall Broccoli buds are still tight and the head is consolidated, you may begin harvesting! Slice the stalk several inches below the head with a knife."
+    },
+
+    "brusselssprouts": {
+        "sun" : "full sun",
+        "soil" : ", fertile and well draining soil",
+        "spacing" : ", and 24 inches of space per plant, given 24 inches of space between rows",
+        "water" : ", regular watering",
+        "mulch" : "",
+        "fertilize" : "",
+
+        "startInside" :  "Begin sowing your Brussels Sprout seeds indoors, into seedling flats at a depth of 0.25 inches, with 1.5 inches of space between each seed.",
+        "fertilizePlantsFirstTime" : "Fertilize your Brussels Sprout seedlings with a dose of liquid fertilizer.",
+        "startOutside" : {
+            "begin" : "Begin transplanting your Brussels Sprouts seedlings into fertile, well-draining soil, when the seedlings have their first two true leaves",
+            "covered" : ", under cover of high-tunnels or row-covers,",
+            "uncovered" : ",",
+            "remainingBoth" : " and in a part of your garden that receives full sun. Space seedlings 24 inches apart in rows that are 24 inches apart. "
+        },
+        "stopOutside" : "Set your remaining Brussels Sprouts transplants in the ground and then cease planting, if you haven't already.",
+        "fertilizePlantsSecondTime" : "Fertilize your Brussels Sprout plants with a dose of liquid fertilizer.",
+        "startHarvest" : "If your Brussel sprout buds are still tight and 1-1.5 inches in diameter, begin harvesting.",
+
+        "startInside2" :  "Begin sowing your Fall Brussels Sprout seeds into seedling flats at a depth of 0.25 inches, with 1.5 inches of space between each seed.",
+        "fertilizePlantsFirstTime2" : "Fertilize your Fall Brussels Sprout seedlings with a dose of liquid fertilizer.",
+        "startOutside2" : {
+            "begin" : "Begin transplanting your Fall Brussels Sprout seedlings into fertile, well-draining soil when the seedlings have their first two true leaves",
+            "covered" : ", under cover of high-tunnels or row-covers,",
+            "uncovered" : ",",
+            "remainingBoth" : " and in a part of your garden that receives full sun. Space seedlings 24 inches apart in rows that are 24 inches apart. "
+        },
+        "stopOutside2" : "Set your remaining Fall Brussels Sprout transplants in the ground and then cease planting, if you haven't already.",
+        "fertilizePlantsSecondTime2" : "Fertilize your Brussels Sprout plants with a dose of liquid fertilizer.",
+        "startHarvest2" : "If your Fall Brussel sprout buds are still tight and 1-1.5 inches in diameter, begin harvesting."
+    },
+
+    "cabbage": {
+        "sun" : "full sun",
+        "soil" : " well draining soil",
+        "spacing" : ", and 24 inches of space per plant, given 24 inches of space between rows",
+        "water" : "",
+        "mulch" : ", heavy mulch applied after transplanting",
+        "fertilize" : "",
+
+        "startInside" : "Begin sowing your Cabbage seeds indoors, into seedling flats.",
+        "startHardenOff" : "Begin hardening off your seedlings by placing them in your garden during the day.",
+        "startOutside" : {
+            "begin" : "Begin transplanting your Cabbage seedlings into moist, fertile, well-draining soil",
+            "covered" : ", under cover of high-tunnels or row-covers,",
+            "uncovered" : ",",
+            "remainingBoth" : " and in a part of your garden that receives full sun. Plant seedlings 24 inches apart in rows that are 24 inches apart. After setting transplants, apply a 2-4 inch layer of mulch."
+        },
+        "stopOutside" : "Set your remaining Cabbage transplants in the ground and then cease planting, if you haven't already.",
+        "fertilizePlantsFirstTime" : "Fertilize your Cabbage seedlings with a dose of liquid fertilizer.",
+        "startHarvest" : "If your Cabbage heads are firm and 4-5 inches in diameter, you can begin harvesting!",
+
+        "startInside2" : "Begin sowing your Fall Cabbage seeds into seedling flats",
+        "startHardenOff2" : "Begin hardening off your Fall Cabbage seedlings by placing them in your garden during the day.",
+        "startOutside2" : {
+            "begin" : "Begin transplanting your Fall Cabbage seedlings into moist, fertile, well-draining soil",
+            "covered" : ", under cover of high-tunnels or row-covers,",
+            "uncovered" : ",",
+            "remainingBoth" : " and in a part of your garden that receives full sun. Plant seedlings 24 inches apart in rows that are 24 inches apart. After setting transplants, apply a 2-4 inch layer of mulch."
+        },
+        "stopOutside2" : "Set your remaining Fall Cabbage transplants in the ground and then cease planting, if you haven't already.",
+        "fertilizePlantsFirstTime2" : "Fertilize your Fall Cabbage seedlings with a dose of liquid fertilizer.",
+        "startHarvest2" : "If your Fall Cabbage heads are firm and 4-5 inches in diameter, you can begin harvesting!"
+    },
+
+    "cantaloupes": {
+        "sun" : "full sun to partial shade",
+        "soil" : ", well draining soil",
+        "spacing" : ", and 24 inches of space per plant, given 6 feet of space between rows",
+        "water" : "",
+        "mulch" : "",
+        "fertilize" : "",
+
+        "startInside" : "Begin sowing your Cantaloupe seeds indoors, into individual peat pots at a depth of 1 inch.",
+        "startOutside" : {
+            "begin" : "Apply a 2 inch layer of mulch across the entire bed, then begin transplanting your Cantaloupe seedlings into loamy, well-draining soil",
+            "covered" : ", under cover of a greenhouse or high-tunnel,",
+            "uncovered" : ",",
+            "remainingBoth" : " and in a part of your garden that receives full sun to partial shade. Set seedlings 24 inches apart in rows that are 6 feet apart."
+        },
+        "directOutside" : {
+            "begin" : "Apply a 2 inch layer of mulch across the entire bed, then begin sowing your Cantaloupe seeds directly into loamy, well-draining soil",
+            "covered" : ", under cover of a green house or high-tunnel,",
+            "uncovered" : ",",
+            "remainingBoth" : " and in a part of your garden that receives full sun to partial shade. Sow seeds to a depth of 1 inch, 4 inches apart from one another, in rows that are 6 feet apart."
+        },
+        "stopOutside" : "Transplant your remaining Cantaloupe seedlings or sow your remaining seeds and then stop planting Cantaloupes, if you haven't already. Also, at this time, apply a dose of liquid fertilizer.",
+        "firstThin" : "Thin your Cantaloupe seedlings to a spacing of 2 feet.",
+        "startHarvest" : "If the rinds of your Cantaloupes have turned from green to a cream color, you can begin harvesting! Look for vines that are beginning to dry, the melons should detatch from their vines easily."
+    },
+
+    "carrots": {
+        "sun" : "full sun to partial shade",
+        "soil" : ", deep and well draining soil",
+        "spacing" : ", and 2 inches of space per plant, given 12 inches of space between rows",
+        "water" : "",
+        "mulch" : "",
+        "fertilize" : "",
+
+        "directOutside" : {
+            "begin" : "Begin sowing your Carrot seeds directly into deep, well-draining soil in your garden",
+            "covered" : ", under cover of either a high-tunnel or floating row-cover,",
+            "uncovered" : ",",
+            "remainingBoth" : " and in an area that receives full sun to partial shade. Sow seeds into 0.25 inch deep furrows, spaced 1 inch apart, in rows that are 12 inches apart. Cover the seeds with 0.5 inches of soil."
+        },
+        "stopOutside" : "Sow your remaining Carrot seeds, and then cease any further planting if you haven't already.",
+        "firstThin" : "Thin your Carrot seedlings to a space of 2 inches per plant. Also, at this point, apply a 1 inch layer of mulch to your carrot seedlings.",
+        "secondThin" : "Thin your Carrot seedlings to a space of 3-4 inches. Also, at this point, apply another 1 inch layer of mulch to your carrot seedlings.",
+        "startHarvest" : "If your carrots are at least 0.5 inch in diameter, you can begin harvesting! Loosen the soil around the carrots with a pitchfork or a shovel, taking care not to break the root, then gently pull directly upwards by the stalks.",
+
+        "directOutside2" : {
+            "begin" : "Begin sowing your Fall Carrot seeds directly into deep, well-draining soil in your garden",
+            "covered" : ", under cover of either a high-tunnel or floating row-cover,",
+            "uncovered" : ",",
+            "remainingBoth" : " and in an area that receives full sun to partial shade. Sow seeds into 0.25 inch deep furrows, spaced 1 inch apart, in rows that are 12 inches apart. Cover the seeds with 0.5 inches of soil."
+        },
+        "stopOutside2" : "Sow your remaining Fall Carrot seeds, and then cease any further planting if you haven't already.",
+        "firstThin2" : "Thin your Fall Carrot seedlings to a space of 2 inches per plant. Also, at this point, apply a 1 inch layer of mulch to your carrot seedlings.",
+        "secondThin2" : "Thin your Fall Carrot seedlings to a space of 3-4 inches. Also, at this point, apply another 1 inch layer of mulch to your carrot seedlings.",
+        "startHarvest2" : "If your Fall Carrots are at least 0.5 inch in diameter, you can begin harvesting! Loosen the soil around the Carrots with a pitchfork or a shovel, taking care not to break the root, then gently pull directly upwards by the stalks."
+    },
+
+    "cauliflower": {
+        "sun" : "full sun",
+        "soil" : ", rich and fertile soil",
+        "spacing" : ", and 24 inches of space per plant, given 24 inches of space between rows",
+        "water" : ", consistent watering",
+        "mulch" : "",
+        "fertilize" : "",
+
+        "startInside" : "Begin sowing your Cauliflower seeds indoors, in seedling trays 1-2 inches apart, and at a depth of 0.25 - 0.5 inches.",
+        "startOutside" : {
+            "begin" : "Begin transplanting your Cauliflower seedlings into rich, fertile soil",
+            "covered" : ", under cover of either a greenhouse, high-tunnel or cold-frame,",
+            "uncovered" : ",",
+            "remainingBoth" : " and in a part of your garden that receives full sun. Space plants 24 inches apart, in rows that are 24 inches apart. Apply starter fertilizer when transplanting. After transplanting, apply a 2 inch layer of mulch around the base of each plant."
+        },
+        "stopOutside" : "Transplant your remaining Cauliflower seedlings, and then cease any further planting if you haven't already.",
+        "blanch" : "Blanch your Cauliflower plants. This involves pulling the leaves up around the cauliflower head and keeping them in place with a rubberband to protect the head from the sun.",
+        "startHarvest" : "If the Cauliflower head is at least 6 inches in diameter, but still consolidated, begin harvesting!",
+
+        "startInside2" : "Begin sowing your Fall Cauliflower seeds indoors, in seedling trays 1-2 inches apart, and at a depth of 0.25 - 0.5 inches.",
+        "startOutside2" : {
+            "begin" : "Begin transplanting your Fall Cauliflower seedlings into rich, fertile soil",
+            "covered" : ", under cover of either a greenhouse, high-tunnel or cold-frame.",
+            "uncovered" : ",",
+            "remainingBoth" : " and in a part of your garden that receives full sun. Space plants 24 inches apart, in rows that are 24 inches apart. Apply starter fertilizer when transplanting. After transplanting, apply a 2 inch layer of mulch around the base of each plant."
+        },
+        "stopOutside2" : "Transplant your remaining Fall Cauliflower seedlings, and then cease any further planting if you haven't already.",
+        "blanch2" : "Blanch your Fall Cauliflower plants. This involves pulling the leaves up around the cauliflower head and keeping them in place with a rubberband to protect the head from the sun.",
+        "startHarvest2" : "If the Fall Cauliflower head is at least 6 inches in diameter, but still consolidated, begin harvesting!"
+    },
+
+    "celery": {
+        "sun" : "full sun",
+        "soil" : ", well draining soil",
+        "spacing" : ", and 5 inches of space per plant, given 24 inches of space between rows",
+        "water" : ", very frequently watering",
+        "mulch" : ", a 1 inch layer of mulch applied upon transplanting and several more inches of mulch applied throughout the season",
+        "fertilize" : ", regular fertilizer",
+
+        "startInside" : "Begin sowing your Celery seeds indoors, into seedling trays.",
+        "startHardenOff" : "Begin hardening off your Celery seedlings by placing them in the garden during the day and by slightly reducing the amount of water available.",
+        "startOutside" : {
+            "begin" : "If your Celery seedlings are at least 2 inches in height, begin transplanting them into fertile, well-draining soil",
+            "covered" : ", under cover of either a greenhouse, high-tunnel or floating row-cover,",
+            "uncovered" : ",",
+            "remainingBoth" : " and in a part of your garden that receives full sun. Space transplants 10 inches apart in rows that are 24 inches apart. Apply a 2 inch layer of mulch after transplanting. Also, apply a dose of organic liquid fertilizer to your Celery transplants."
+        },
+        "stopOutside" : "Transplant your remaining Celery seedlings, and then cease any further planting if you haven't already.",
+        "firstMulch" : "Apply an additional 2 inch layer of mulch around your celery plants.",
+        "fertilizePlantsFirstTime" : "Apply another dose of organic liquid fertilizer to your Celery plants.",
+        "fertilizePlantsSecondTime" : "Apply another dose of organic liquid fertilizer to your Celery plants.",
+        "startHarvest" :  "If the outer stalks of your Celery plants are 8 inches in height, you can begin harvesting by cutting the stalks 1-2 inches above the soil surface."
+    },
+
+    "chard": {
+        "sun" : "full sun to partial shade",
+        "soil" : ", well draining soil",
+        "spacing" : ", and 12 inches of space per plant, given 24 inches of space between rows",
+        "water" : "",
+        "mulch" : "",
+        "fertilize" : "",
+
+        "startInside" : "Begin sowing your Chard seeds indoors, in seedling trays at a depth of 0.5 inches, and spaced an inch apart.",
+        "firstThin" : "Begin thinning your Chard seedlings by cutting the sprouts off at the soil line with some form of clippers. Prioritize thinning any double sprouts.",
+        "directOutside" : {
+            "begin" : "Begin directly sowing your Chard seeds into rich, well-draining soil",
+            "covered" : ", under cover of either a floating row-cover or high-tunnel,",
+            "uncovered" : ",",
+            "remainingBoth" : " and in a part of your garden that receives full sun to partial shade. Sow 10 seeds per every foot of row space, at a depth of 0.5 inch, and in rows that are 24 inches apart."
+        },
+        "startOutside" : {
+            "begin" : "Begin transplanting your Chard seeds into rich, well-draining soil",
+            "covered" : ", under cover of either a floating row-cover, or high-tunnel,",
+            "uncovered" : ",",
+            "remainingBoth" : " and in a part of your garden that receives full sun to partial shade. Space your transplants 12 inches apart in rows that are 24 inches apart."
+        },
+        "stopOutside" : "Finish planting your Chard, and then cease any further planting if you haven't already.",
+        "secondThin" : "Thin your Chard seedlings again, to a space of 12 inches.",
+        "startHarvest" :  "If your Chard leaves are at least 9 inches tall, you can begin harvesting them!",
+
+        "startInside2" : "Begin sowing your Fall Chard seeds indoors in seedling trays at a depth of 0.5 inches, and spaced an inch apart.",
+        "firstThin2" : "Begin thinning your Fall Chard seedlings by cutting the sprouts off at the soil line with some form of clippers. Prioritize thinning any double sprouts.",
+        "directOutside2" : {
+            "begin" : "Begin directly sowing your Fall Chard seeds into rich, well-draining soil",
+            "covered" : ", under cover of either a row-cover or high-tunnel,",
+            "uncovered" : ",",
+            "remainingBoth" : " and in a part of your garden that receives full sun to partial shade. Sow 10 seeds per every foot of row space, at a depth of 0.5 inch, and in rows that are 24 inches apart."
+        },
+        "startOutside2" : {
+            "begin" : "Begin transplanting your Fall Chard seeds into rich, well-draining soil",
+            "covered" : ", under cover of either a row-cover, or high-tunnel,",
+            "uncovered" : ",",
+            "remainingBoth" : " and in a part of your garden that receives full sun to partial shade. Space your transplants 12 inches apart in rows that are 24 inches apart."
+        },
+        "stopOutside2" : "Finish planting your Fall Chard, and then cease any further planting if you haven't already.",
+        "secondThin2" : "Thin your Fall Chard seedlings again, to a space of 12 inches.",
+        "startHarvest2" :  "If your Fall Chard leaves are at least 9 inches tall, you can begin harvesting them!"
+    },
+
+    "chinesecabbage": {
+        "sun" : "partial shade to full shade",
+        "soil" : "",
+        "spacing" : "",
+        "water" : "",
+        "mulch" : "",
+        "fertilize" : "",
+
+        "directOutside" : {
+            "begin" : "Begin sowing your Chinese Cabbage seeds directly into your garden",
+            "covered" : ", under cover of either a cold-frame, high-tunnel or floating row-cover,",
+            "uncovered" : ",",
+            "remainingBoth" : " and in a part of your garden that receives partial shade to full shade. Sow the seeds to a depth of 0.5 inch, spaced 4 inches apart in rows that are 30 inches apart."
+        },
+        "stopOutside" : "Finish sowing your Chinese Cabbage, and then cease any further planting if you haven't already.",
+        "startHarvest" : "If your Chinese Cabbage heads are still firm and compact, you may begin harvesting, by cutting the entire head from it's root at soil-level with a knife.",
+
+        "directOutside2" : {
+            "begin" : "Begin sowing your Fall Chinese Cabbage seeds directly into your garden",
+            "covered" : ", under cover of either a cold-frame, high-tunnel or floating row-cover,",
+            "uncovered" : ",",
+            "remainingBoth" : " and in a part of your garden that receives partial shade to full shade. Sow the seeds to a depth of 0.5 inch, spaced 4 inches apart in rows that are 30 inches apart."
+        },
+        "stopOutside2" : "Finish sowing your Fall Chinese Cabbage, and then cease any further planting if you haven't already.",
+        "startHarvest2" : "If your Fall Chinese Cabbage heads are still firm and compact, you may begin harvesting, by cutting the entire head from it's root at soil-level with a knife."
+
+    },
+
+    "chives": {
+        "sun" : "full sun to partial shade",
+        "soil" : "",
+        "spacing" : "",
+        "water" : ", consistent watering",
+        "mulch" : "",
+        "fertilize" : "",
+
+        "startInside" : "Begin sowing your Chive seeds indoors, into individual pots at a depth of 0.25 inch.",
+        "startOutside" : {
+            "begin" : "Begin transplanting your Chive seedlings into your garden, in moist, fertile, well-draining soil, that has been mixed with compost",
+            "covered" : ", under cover of either a high-tunnel, floating row-cover or greenhouse,",
+            "uncovered" : ",",
+            "remainingBoth" : " and in a part of your garden that receives full sun to partial shade. Allocate a 4 ft. sq. plot of soil in which to transplant. Space seedlings 4-6 inches apart from each other."
+        },
+        "directOutside" : {
+            "begin" : "Begin sowing your Chives seeds directly into your garden, in moist, fertile, well-draining soil, that has been mixed with compost ",
+            "covered" : ", under cover of either a high-tunnel, floating row-cover or greenhouse,",
+            "uncovered" : ",",
+            "remainingBoth" : " and in a part of your garden that receives full sun to partial shade. Allocate a 4 ft. sq. plot of soil on which to scatter your Chive seeds. Cover the seeds with a 0.25 inch layer of soil."
+        },
+        "stopOutside" : "Finish planting your Chives, and then cease any further planting if you haven't already.",
+        "fertilizePlantsFirstTime" : "Apply a dose of organic liquid fertilizer around the bases of your Chive plants.",
+        "fertilizePlantsSecondTime" : "Apply another dose of organic liquid fertilizer around the bases of your Chive plants to continue their growth.",
+        "firstThin" : "Thin your Chive seedlings to a spacing of 4-6 inches between each plant. Also, at this time, apply a dose of organic liquid fertilizer around the bases of your Chive plants and apply a 1 inch layer of mulch to conserve moisture.",
+        "startHarvest" : "If your Chive shoots are at least 5 inches tall, you can begin harvesting by clipping them an inch above the soil line with a pair of scissors.",
+
+        "startInside2" : "Begin sowing your Fall Chive seeds into individual pots at a depth of 0.25 inch.",
+        "startOutside2" : {
+            "begin" : "Begin transplanting your Fall Chive seedlings into your garden, in moist, fertile, well-draining soil, that has been mixed with compost",
+            "covered" : ", under cover of either a high-tunnel, floating row-cover, or greenhouse,",
+            "uncovered" : ",",
+            "remainingBoth" : " and in a part of your garden that receives full sun to partial shade. Allocate a 4 ft. sq. plot of soil in which to transplant. Space seedlings 4-6 inches apart from each other."
+        },
+        "directOutside2" : {
+            "begin" : "Begin sowing your Fall Chives seeds directly into your garden, in moist, fertile, well-draining soil, that has been mixed with compost ",
+            "covered" : ", under cover of either a high-tunnel, floating row-cover, or greenhouse,",
+            "uncovered" : ",",
+            "remainingBoth" : " and in a part of your garden that receives full sun to partial shade. Allocate a 4 ft. sq. plot of soil on which to scatter your Chive seeds. Cover the seeds with a 0.25 inch layer of soil."
+        },
+        "stopOutside2" : "Finish planting your Fall Chives, and then cease any further planting if you haven't already.",
+        "fertilizePlantsFirstTime2" : "Apply a dose of organic liquid fertilizer around the bases of your Fall Chive plants.",
+        "fertilizePlantsSecondTime2" : "Apply another dose of organic liquid fertilizer around the bases of your Fall Chive plants to continue their growth.",
+        "firstThin2" : "Thin your Fall Chive seedlings to a spacing of 4-6 inches between each plant. Also, at this time, apply a dose of organic liquid fertilizer around the bases and apply a 1 inch layer of mulch to conserve moisture.",
+        "startHarvest2" : "If your Fall Chive shoots are at least 5 inches tall, you can begin harvesting by clipping them an inch above the soil line with a pair of scissors."
+    },
+
+    "collardgreens": {
+        "sun" : "full sun",
+        "soil" : ", moist and fertile soil",
+        "spacing" : ", and 12 - 18 inches of spacing per plant, given 3 feet of space between rows",
+        "water" : "",
+        "mulch" : "",
+        "fertilize" : "",
+
+        "startInside" : "Begin sowing your Collard Green seeds into seedling trays indoors, at a depth of 0.25 inch, spacing 1-2 inches apart.",
+
+        "startOutside" : {
+            "begin" : "Begin transplanting your Collard Green seedlings into moist, fertile soil",
+            "covered" : ", under cover of either a high-tunnel, or floating row-cover,",
+            "uncovered" : ",",
+            "remainingBoth" : " and in a part of your garden that receives full sun. Set transplants 12-18 inches apart in rows that are 3 feet apart."
+        },
+        "directOutside" : {
+            "begin" : "Begin sowing your Collard Green seeds directly into your garden, in moist fertile soil",
+            "covered" : ", under cover of either a high-tunnel, or floating row-cover,",
+            "uncovered" : ",",
+            "remainingBoth" : " and in a part of your garden that receives full sun. Sow seeds 10-12 inches apart in rows that are 3 feet apart."
+        },
+        "stopOutside" : "Finish planting your Collard Greens, and then cease any further planting if you haven't already.",
+        "fertilizePlantsFirstTime" : "Apply a dose of liquid sea-weed fertilizer onto the leaves of your Collard Greens ('Foliar feeding').",
+        "fertilizePlantsSecondTime" : "Apply another dose of liquid sea-weed fertilizer onto the leaves of your Collard Greens ('Foliar feeding').",
+        "fertilizePlantsThirdTime" : "Apply yet another dose of liquid sea-weed fertilizer onto the leaves of your Collard Greens ('Foliar feeding').",
+        "startHarvest" : "If the outer leaves of your Collard Greens are at least 12 inches tall, you can begin harvesting by cutting off the largest leaves near the base of their stems with a knife or scissors.",
+
+        "startInside2" : "Begin sowing your Fall Collard Green seeds into seedling trays indoors at a depth of 0.25 inch, spacing 1-2 inches apart.",
+        "startOutside2" : {
+             "begin" : "Begin transplanting your Fall Collard Green seedlings into moist, fertile soil",
+            "covered" : ", under cover of either a high-tunnel, or floating row-cover,",
+            "uncovered" : ",",
+            "remainingBoth" : " and in a part of your garden that receives full sun. Set transplants 12-18 inches apart in rows that are 3 feet apart."
+        },
+        "directOutside2" : {
+            "begin" : "Begin sowing your Fall Collard Green seeds directly into your garden, in moist fertile soil",
+            "covered" : ", under cover of either a high-tunnel, or floating row-cover,",
+            "uncovered" : ",",
+            "remainingBoth" : " and in a part of your garden that receives full sun. Sow seeds 10-12 inches apart in rows that are 3 feet apart."
+        },
+        "stopOutside2" : "Finish planting your Fall Collard Greens, and then cease any further planting if you haven't already.",
+        "fertilizePlantsFirstTime2" : "Apply a dose of liquid sea-weed fertilizer onto the leaves of your Fall Collard Greens ('Foliar feeding').",
+        "fertilizePlantsSecondTime2" : "Apply another dose of liquid sea-weed fertilizer onto the leaves of your Fall Collard Greens ('Foliar feeding').",
+        "fertilizePlantsThirdTime2" : "Apply yet another dose of liquid sea-weed fertilizer onto the leaves of your Fall Collard Greens ('Foliar feeding').",
+        "startHarvest2" : "If the outer leaves of your Fall Collard Greens are at least 12 inches tall, you can begin harvesting by cutting off the largest leaves near the base of their stems with a knife or scissors."
+    },
+
+    "cornsweet": {
+        "sun" : "full sun",
+        "soil" : ", rich and fertile soil",
+        "spacing" : ", and 12 - 15 inches of space per plant, given 36 inches between rows",
+        "water" : ", consistent watering",
+        "mulch" : "",
+        "fertilize" : "",
+
+        "directOutside" : {
+            "begin" : "Begin sowing your Corn seeds direcly into your garden in moist, fertile soil",
+            "covered" : ",",
+            "uncovered" : ",",
+            "remainingBoth" : " and in an area of your garden that receives full sun. Sow seeds to a depth of 1 inch, spaced 4-6 inches apart, in rows that are 36 inches apart. Apply a dose of fertilizer immediately after planting and water well."
+        },
+        "stopOutside" : "Sow your remaining Corn seeds and then cease any further planting, if you have not already.",
+        "firstThin" : "Thin your Corn seedlings to a spacing of 12-15 inches apart.",
+        "startHarvest" : "If your Corn Cobs have begun to swell and the tassels have turned brown, you can begin harvesting by gently twisting off the cob from the stalk with your hand.",
+
+        "directOutside2" : {
+            "begin" : "Begin sowing your Fall Corn seeds direcly into your garden in moist, fertile soil",
+            "covered" : ",",
+            "uncovered" : ",",
+            "remainingBoth" : " and in an area of your garden that receives full sun. Sow seeds to a depth of 1 inch, spaced 4-6 inches apart, in rows that are 36 inches apart. Apply a dose of fertilizer immediately after planting and water well."
+        },
+        "stopOutside2" : "Sow your remaining Fall Corn seeds and then cease any further planting, if you have not already.",
+        "firstThin2" : "Thin your Fall Corn seedlings to a spacing of 12-15 inches apart.",
+        "startHarvest2" : "If your Fall Corn Cobs have begun to swell and the tassels have turned brown, you can begin harvesting by gently twisting off the cob from the stalk with your hand."
+
+    },
+
+    "cucumbersslicing": {
+        "sun" : "full sun",
+        "soil" : ", well draining soil",
+        "spacing" : ", and 24 inches of space per plant, given 48 inches of space per row",
+        "water" : ", consistent watering",
+        "mulch" : ", a 1 inch layer of mulch applied cross the entire bed 4 weeks after transplanting or when the seedlings are 4 inches tall",
+        "fertilize" : "",
+
+        "startInside" : "Begin sowing your Cucumber (slicing) seeds into seedling trays indoors, at a depth of 1 inch and spaced 2 inches apart.",
+        "startOutside" : {
+            "begin" : "Begin transplanting your Cucumber (slicing) seedlings into your garden in moist, rich and well-draining soil",
+            "covered" : ",",
+            "uncovered" : ",",
+            "remainingBoth" : " and in a part of your garden that receives full sun. Set transplants 24 inches apart in rows that are 30 inches apart. If you prefer to plant on hills, which affords for more effective drainage, build the hills 5 feet apart, 8-12 inches high, and 18 inches wide. Set 4-5 transplants into each hill, eaqually spaced from the peak and from each other."
+        },
+        "directOutside" : {
+            "begin" : "Begin sowing your Cucumber (slicing) seeds directly into your garden, into moist, rich and well-draining soil",
+            "covered" : ",",
+            "uncovered": ",",
+            "remainingBoth" : " and in a part of your garden that receives full sun. Sow your seeds at a depth of 1 inch, spaced 4-6 inches apart, in rows that are 30 inches apart. If you prefer to plant your Cucumbers (slicing) in hills, build the hills 5 feet apart, 8-12 inches high, and 18 inches wide. Sow 4-5 seeds into each hill equally spaced from the peak and from each other."
+        },
+        "stopOutside" : "Plant your remaining Cucumber (slicing) seeds and transplants, and then cease any further planting, if you have not already.",
+        "firstThin" : "If you have planted your Cucumbers (slicing) in rows, thin them to a distance of 24 inches apart. If they are planted on hills, thin each hill to the 2 heartiest seedlings.",
+        "firstMulch" : "Apply a 1-2 inch layer of mulch across the entire bed.",
+        "startHarvest" : "If your Cucumber are 6-8 inches long, you can begin harvesting them by pinching the stem off just short of the fruit.",
+
+        "startInside2" : "Begin sowing your Fall Cucumber (slicing) seeds into seedling trays indoors at a depth of 1 inch and spaced 2 inches apart.",
+        "startOutside2" : {
+            "begin" : "Begin transplanting your Fall Cucumber (slicing) seedlings into your garden in moist, rich and well-draining soil",
+            "covered" : ",",
+            "uncovered" : ",",
+            "remainingBoth" : " and in a part of your garden that receives full sun. Set transplants 24 inches apart in rows that are 30 inches apart. If you prefer to plant on hills, which affords for more effective drainage, build the hills 5 feet apart, 8-12 inches high, and 18 inches wide. Set 4-5 transplants into each hill, eaqually spaced from the peak and from each other."
+        },
+        "directOutside2" : {
+            "begin" : "Begin sowing your Fall Cucumber (slicing) seeds directly into your garden, into moist, rich and well-draining soil",
+            "covered" : ",",
+            "uncovered": ",",
+            "remainingBoth" : " and in a part of your garden that receives full sun. Sow your seeds at a depth of 1 inch, spaced 4-6 inches apart, in rows that are 30 inches apart. If you prefer to plant your Fall Cucumbers (slicing) in hills, build the hills 5 feet apart, 8-12 inches high, and 18 inches wide. Sow 4-5 seeds into each hill equally spaced from the peak and from each other."
+        },
+        "stopOutside2" : "Plant your remaining Fall Cucumber (slicing) seeds and transplants, and then cease any further planting, if you have not already.",
+        "firstThin2" : "If you have planted your Fall Cucumbers (slicing) in rows, thin them to a distance of 24 inches apart. If they are planted on hills, thin each hill to the 2 heartiest seedlings.",
+        "firstMulch2" : "Apply a 1-2 inch layer of mulch across the entire bed of your Fall Cucumbers (slicing).",
+        "startHarvest2" : "If your Fall Cucumber are 6-8 inches long, you can begin harvesting them by pinching the stem off just short of the fruit. Repeat harvesting every few days."
+    },
+
+    "cucumberspickle": {
+        "sun" : "full sun",
+        "soil" : ", well draining soil",
+        "spacing" : ", and 24 inches of space per plant, given 48 inches between rows",
+        "water" : ", consistent watering",
+        "mulch" : ", a 1 inch layer of mulch applied cross the entire bed 4 weeks after transplanting or when the seedlings are 4 inches tall",
+        "fertilize" : "",
+
+        "startInside" : "Begin sowing your Cucumber (slicing) seeds into seedling trays indoors, at a depth of 1 inch, and spaced 2 inches apart.",
+        "startOutside" : {
+            "begin" : "Begin transplanting your Cucumber (slicing) seedlings into your garden in moist, rich and well-draining soil",
+            "covered" : ",",
+            "uncovered" : ",",
+            "remainingBoth" : " and in a part of your garden that receives full sun. Set transplants 24 inches apart in rows that are 30 inches apart. If you prefer to plant on hills, which affords for more effective drainage, build the hills 5 feet apart, 8-12 inches high, and 18 inches wide. Set 4-5 transplants into each hill, eaqually spaced from the peak and from each other."
+        },
+        "directOutside" : {
+            "begin" : "Begin sowing your Cucumber (slicing) seeds directly into your garden, into moist, rich and well-draining soil",
+            "covered" : ",",
+            "uncovered": ",",
+            "remainingBoth" : " and in a part of your garden that receives full sun. Sow your seeds at a depth of 1 inch, spaced 4-6 inches apart, in rows that are 30 inches apart. If you prefer to plant your Cucumbers (slicing) in hills, build the hills 5 feet apart, 8-12 inches high, and 18 inches wide. Sow 4-5 seeds into each hill equally spaced from the peak and from each other."
+        },
+        "stopOutside" : "Plant your remaining Cucumber (slicing) seeds and transplants, and then cease any further planting, if you have not already.",
+        "firstThin" : "If you have planted your Cucumbers (slicing) in rows, thin them to a distance of 24 inches apart. If they are planted on hills, thin each hill to the 2 heartiest seedlings.",
+        "firstMulch" : "Apply a 1-2 inch layer of mulch across the entire bed.",
+        "startHarvest" : "If your Cucumber are 6-8 inches long, and are uniformly green (with the exception of Lemon Cucumbers), you can begin harvesting them by pinching the stem off just short of the fruit.",
+
+        "startInside2" : "Begin sowing your Fall Cucumber (slicing) seeds into seedling trays indoors at a depth of 1 inch and spaced 2 inches apart.",
+        "startOutside2" : {
+            "begin" : "Begin transplanting your Fall Cucumber (slicing) seedlings into your garden in moist, rich and well-draining soil",
+            "covered" : ",",
+            "uncovered" : ",",
+            "remainingBoth" : " and in a part of your garden that receives full sun. Set transplants 24 inches apart in rows that are 30 inches apart. If you prefer to plant on hills, which affords for more effective drainage, build the hills 5 feet apart, 8-12 inches high, and 18 inches wide. Set 4-5 transplants into each hill, eaqually spaced from the peak and from each other."
+        },
+        "directOutside2" : {
+            "begin" : "Begin sowing your Fall Cucumber (slicing) seeds directly into your garden, into moist, rich and well-draining soil",
+            "covered" : ",",
+            "uncovered": ",",
+            "remainingBoth" : " and in a part of your garden that receives full sun. Sow your seeds at a depth of 1 inch, spaced 4-6 inches apart, in rows that are 30 inches apart. If you prefer to plant your Fall Cucumbers (slicing) in hills, build the hills 5 feet apart, 8-12 inches high, and 18 inches wide. Sow 4-5 seeds into each hill equally spaced from the peak and from each other."
+        },
+        "stopOutside2" : "Plant your remaining Fall Cucumber (slicing) seeds and transplants, and then cease any further planting, if you have not already.",
+        "firstThin2" : "If you have planted your Fall Cucumbers (slicing) in rows, thin them to a distance of 24 inches apart. If they are planted on hills, thin each hill to the 2 heartiest seedlings.",
+        "firstMulch2" : "Apply a 1-2 inch layer of mulch across the entire bed of your Fall Cucumbers (slicing).",
+        "startHarvest2" : "If your Fall Cucumber are 6-8 inches long, and are uniformly green (with the exception of Lemon Cucumbers), you can begin harvesting them by pinching the stem off just short of the fruit. Repeat harvesting every few days."
+    },
+
+    "dill": {
+        "sun" : "",
+        "soil" : "",
+        "spacing" : ", and 9 - 12 inches of space per plant, given 24 inches of space between rows",
+        "water" : ", consistent watering",
+        "mulch" : "",
+        "fertilize" : "",
+
+        "directOutside" : {
+            "begin" : "Begin sowing your Dill seeds directly in your garden, in rich, fertile and moist soil",
+            "covered" : ", under cover of either a greenhouse, high-tunnel or floating row-cover,",
+            "uncovered" : ",",
+            "remainingBoth" : " and in a part of your garden that receives full sun to partial shade. Sow seeds at a depth of 0.25 inches and spaced 9-12 inches apart, in rows that are 24 inches apart."
+        },
+        "stopOutside" : "Sow your remaining dill seeds, and then cease any further planting, if you have not already.",
+        "startHarvest" : "If your Dill has 5 leaves on it, you can begin harvesting by snipping off the leaves with a pair of scissors.",
+
+        "directOutside2" : {
+            "begin" : "Begin sowing your Fall Dill seeds directly in your garden, in rich, fertile and moist soil",
+            "covered" : ", under cover of either a greenhouse, high-tunnel or floating row-cover,",
+            "uncovered" : ",",
+            "remainingBoth" : " and in a part of your garden that receives full sun to partial shade. Sow seeds at a depth of 0.25 inches and spaced 9-12 inches apart, in rows that are 24 inches apart."
+        },
+        "stopOutside2" : "Sow your remaining Fall Dill seeds, and then cease any further planting, if you have not already.",
+        "startHarvest2" : "If your Fall Dill has 5 leaves on it, you can begin harvesting by snipping off the leaves with a pair of scissors."
+    },
+
+    "eggplants": {
+        "sun" : "full sun",
+        "soil" : ", well draining soil",
+        "spacing" : ", and 24 inches of space per plant, given 24 inches of space between rows",
+        "water" : "",
+        "mulch" : "",
+        "fertilize" : "",
+
+        "startInside" : "Begin sowing your Eggplant seeds indoors, in seedling trays, 2 inches apart, and at a depth of 0.5 inches",
+        "startHardenOff" : "Begin hardening off your Eggplant seedlings by setting them in the garden during the day. Be sure to keep them well off the ground to avoid pests.",
+        "fertilizeBed" : "Till in a 2 inch layer of mixed compost, balanced fertilizer and manure into the bed you expect to transplant your Eggplants into.",
+        "startOutside" : {
+            "begin" : "Begin transplanting your Eggplant seedlings into moist, fertile, well-draining soil in your garden",
+            "covered" : ", under cover of floating row-covers,",
+            "uncovered" : ",",
+            "remainingBoth" : " and in a part of your garden that receives full sun. Space transplants 24 inches apart, in rows that are 24 inches apart."
+        },
+        "stopOutside" : "Transplant any remaining Eggplant seedlings, and then cease any further planting, if yor have not already.",
+        "firstMulch" : "Apply a 1 inch layer of mulch to the bases of your eggplants, and remove the floating row-covers from above your Eggplants for the remainder of the season. Also, at this time, if you have support cages, now is a good time to set them around your Eggplants, though this step is merely optional.",
+        "startHarvest" : "If your eggplants are 4-5 inches in length and the skin is glossy, you can begin harvesting them by snipping the stems with a pair of shears an inch above the fruit.",
+
+        "startInside2" : "Begin sowing your Fall Eggplant seeds indoors in seedling trays, 2 inches apart, and at a depth of 0.5 inches",
+        "startHardenOff2" : "Begin hardening off your Fall Eggplant seedlings by setting them in the garden during the day. Be sure to keep them well off the ground to avoid pests.",
+        "fertilizeBed2" : "Till in a 2 inch layer of mixed compost, balanced fertilizer and manure into the bed you expect to transplant your Fall Eggplants into.",
+        "startOutside2" : {
+            "begin" : "Begin transplanting your Eggplant seedlings into moist, fertile, well-draining soil in your garden",
+            "covered" : ", under cover of floating row-covers,",
+            "uncovered" : ",",
+            "remainingBoth" : " and in a part of your garden that receives full sun. Space transplants 24 inches apart, in rows that are 24 inches apart."
+        },
+        "stopOutside2" : "Transplant any remaining Fall Eggplant seedlings, and then cease any further planting, if yor have not already.",
+        "firstMulch2" : "Apply a 1 inch layer of mulch to the bases of your Fall Eggplants, and remove the floating row-covers from above your Eggplants for the remainder of the season. Also, at this time, if you have support cages, now is a good time to set them around your Eggplants, though this step is merely optional.",
+        "startHarvest2" : "If your Fall Eggplants are 4-5 inches in length and the skin is glossy, you can begin harvesting them by snipping the stems with a pair of shears an inch above the fruit."
+
+    },
+
+    "endive": {
+        "sun" : "",
+        "soil" : "",
+        "spacing" : ", and 10 inches of space per plant, given 12 inches of space between rows",
+        "water" : ", regular watering",
+        "mulch" : "",
+        "fertilize" : "",
+
+        "startInside" :  "Begin sowing your Endive seeds indoors, into seedling trays at a depth of 0.25 inches, spaced 2 inches apart.",
+        "startOutside" : {
+            "begin" : "Begin transplanting your Endive seedlings into your garden",
+            "covered" : ",",
+            "uncovered" : ",",
+            "remainingBoth" : " in soil that has a high level of humus, and in a part o your garden that receives full sun. Space transplants 10 inches apart, in rows that are 12 inches apart."
+        },
+        "stopOutside" : "Get the rest of your Endive seedlings into the ground and then cease any further planting if you have not already.",
+        "blanch" : "Blanch your Endive plants by tying up the leaves around the heart with a rubberband. This will turn the Endive heart a creamy color.",
+        "startHarvest" : "You can begin harvesting your Endive hearts when needed by cutting them just above the soil-line.",
+
+        "startInside2" :  "Begin sowing your Fall Endive seeds indoors into seedling trays at a depth of 0.25 inches, spaced 2 inches apart.",
+        "startOutside2" : {
+            "begin" : "Begin transplanting your Fall Endive seedlings into your garden",
+            "covered" : ",",
+            "uncovered" : ",",
+            "remainingBoth" : " in soil that has a high level of humus, and in a part o your garden that receives full sun. Space transplants 10 inches apart, in rows that are 12 inches apart."
+        },
+        "stopOutside2" : "Get the rest of your Fall Endive seedlings into the ground and then cease any further planting if you have not already.",
+        "blanch2" : "Blanch your Fall Endive plants by tying up the leaves around the heart with a rubberband. This will turn the Endive hearts a creamy color.",
+        "startHarvest2" : "You can begin harvesting your Fall Endive hearts when needed by cutting them just above the soil-line."
+    },
+
+    "garlic": {
+        "sun" : "full sun",
+        "soil" : ", rich and well draining soil",
+        "spacing" : ", and 3 inches of space per plant, given 18 inches of space between rows",
+        "water" : ", consistent watering from mid-spring to early-summer",
+        "mulch" : ", a 2 inch layer of mulch applied in the fall",
+        "fertilize" : "",
+
+        "directOutside" : {
+            "begin" : "Begin planting your Garlic bulbs directly in your garden, with the pointed-end up, in soil that is rich and well-draining",
+            "covered" : ",",
+            "uncovered" : ",",
+            "remainingBoth" : " and in a part of the garden that receives full sun. Space your Garlic bulbs 3 inches apart, in rows that are 18 inches apart and at a depth equal to the height of the bulb itself. After planting, apply a 2-4 inch layer of mulch across the bed."
+        },
+        "stopOutside" : "Get any remaining Garlic bulbs into the ground and then cease any further planting, if you have not already.",
+        "removeMulch" : "Remove the layer of mulch left the previous fall.",
+        "changeWaterCycle" : "Begin watering your Garlic every 3 to 5 days.",
+        "startHarvest" : "If the tops of your garlic have mostly turned brown, you can begin harvesting them by carefully loosening the surrounding soil with a pitchfork or a shovel and then pulling the Garlic up by its stalk. Let the garlic cure for several days after harvesting by hanging it from a hook in a dry environment."
+    },
+
+    "kale": {
+        "sun" : "full sun to partial shade",
+        "soil" : ", well draining soil",
+        "spacing" : ", and 24 inches of space per plant, given 24 inches of space between rows",
+        "water" : ", consistent watering",
+        "mulch" : ", mulch applied after transplanting or a month after sowing seeds directly",
+        "fertilize" : "",
+
+        "startInside" : "Begin sowing Kale seeds indoors, in seedling trays, spacing 2 inches apart, and at a depth of 0.25 inch.",
+        "startHardenOff" : "Begin hardening off your Kale seedlings by setting them in the garden during the day.",
+        "startOutside" : {
+            "begin" : "Till in fertilizer into the top 4 inches of soil in the bed you epect to plant your Kale, then begin transplanting your Kale seedlings into your garden, in soil that is fertile and well-draining",
+            "covered" : ", under cover of either a high-tunnel or floating row-covers, ",
+            "uncovered" : ",",
+            "remainingBoth" : " and in a part of your garden that receives full sun. Space your transplants 24 inches apart in rows that are 24 inches apart. Apply a 2 inch layer of mulch around the base of each plant, after transplanting."
+        },
+        "directOutside" : {
+            "begin" : "Till in fertilizer into the top 4 inches of soil in the bed you epect to plant your Kale, begin sowing your Kale seeds directly into your garden, in soil that is fertile and well-draining",
+            "covered" : ", under cover of either a high-tunnel or floating row-covers, ",
+            "uncovered" : ",",
+            "remainingBoth" : " and in a part of your garden that receives full sun. Space your seeds 3-4 inches apart in rows that are 24 inches apart."
+        },
+        "stopOutside" : "Get any remaining Kale seedlings transplanted or seeds sown in the ground, and then cease any further planting, if you have not already.",
+        "firstThin" : "Thin your Kale seedlings to a spacing of 8-12 inches apart.",
+        "firstMulch" : "Apply a 2 inch layer of mulch around the base of each Kale plant.",
+        "startHarvest" :  "If the individual outer leaves of your Kale plants are at least 5 inches long  you can begin harvesting the outter leaves, or if the entire head is uniformly 6-8 inches long, you can harvest the entire head, but make sure to leave the smallest new leaves intact for future growth.",
+
+        "startInside2" : "Begin sowing Fall Kale seeds indoors in seedling trays, spacing 2 inches apart, and at a depth of 0.25 inch.",
+        "startHardenOff2" : "Begin hardening off your Fall Kale seedlings by setting them in the garden during the day.",
+        "startOutside2" : {
+            "begin" : "Till in fertilizer into the top 4 inches of soil in the bed you epect to plant your Kale, then begin transplanting your Fall Kale seedlings into your garden, in soil that is fertile and well-draining",
+            "covered" : ", under cover of either a high-tunnel or floating row-covers, ",
+            "uncovered" : ",",
+            "remainingBoth" : " and in a part of your garden that receives full sun. Space your transplants 24 inches apart in rows that are 24 inches apart. Apply a 2 inch layer of mulch around the base of each plant, after transplanting."
+        },
+        "directOutside2" : {
+            "begin" : "Till in fertilizer into the top 4 inches of soil in the bed you epect to plant your Kale, begin sowing your Fall Kale seeds directly into your garden, in soil that is fertile and well-draining",
+            "covered" : ", under cover of either a high-tunnel or floating row-covers, ",
+            "uncovered" : ",",
+            "remainingBoth" : " and in a part of your garden that receives full sun. Space your seeds 3-4 inches apart in rows that are 24 inches apart."
+        },
+        "stopOutside2" : "Get any remaining Fall Kale seedlings transplanted or seeds sown in the ground, and then cease any further planting, if you have not already.",
+        "firstThin2" : "Thin your Fall Kale seedlings to a spacing of 8-12 inches apart.",
+        "firstMulch2" : "Apply a 2 inch layer of mulch around the base of each Fall Kale plant.",
+        "startHarvest2" :  "If the individual outer leaves of your Fall Kale plants are at least 5 inches long  you can begin harvesting the outter leaves, or if the entire head is uniformly 6-8 inches long, you can harvest the entire head, but make sure to leave the smallest new leaves intact for future growth.",
+        "secondMulch2" : "Apply a 4 inch layer of mulch around your Fall Kale plants to encourage over-wintering."
+
+    },
+
+    "kohlrabi": {
+        "sun" : "",
+        "soil" : ", loose and well draining soil",
+        "spacing" : ", and 6 inches of space per plant, given 24 inches of space between rows",
+        "water" : ", consistent watering",
+        "mulch" : "",
+        "fertilize" : "",
+
+        "startInside" : "Begin sowing your Kohlrabi seeds indoors, in seedling trays, spaced 2 inches apart, and at a depth of 0.25 inches.",
+        "startHardenOff" : "Begin hardening off your Kohlrabi seedlings by placing them outside during the day.",
+        "startOutside" : {
+            "begin" : "Begin transplanting your Kohlrabi seedlings into your garden, in loose, well-draining soil",
+            "covered" : ", under cover of floating row-covers,",
+            "uncovered" : ",",
+            "remainingBoth" :  " and in a part of your garden that receives full sun. Space your transplants 6 inches apart, in rows that are 24 inches apart. Apply a 1 inch layer of mulch around the base of each plant after transplanting."
+        },
+        "directOutside" : {
+            "begin" : "Begin sowing your Kohlrabi seeds directly into your garden, in loose, well-draining soil",
+            "covered" : ", under cover of floating row-covers,",
+            "uncovered" : ",",
+            "remainingBoth" : " and in a part of your garden that receives full sun. Sow 10 seeds per foot of row space, at a depth of 0.25 inches."
+        },
+        "stopOutside" : "Get any remaining Kohlrabi seeds or seedlings into the ground and then cease any further planting if you haven't already.",
+        "firstMulch" : "Apply a 1 inch layer of mulch around the base of each Kohlrabi seedling.",
+        "startHarvest" : "If your Kohlrabi bulbs are 2-3 inches in diameter, you may begin harvesting them by cutting them from their stalks with a sharp knife, just above the soil-line.",
+
+        "startInside2" : "Begin sowing your Fall Kohlrabi seeds indoors in seedling trays, spaced 2 inches apart, and at a depth of 0.25 inches.",
+        "startHardenOff2" : "Begin hardening off your Fall Kohlrabi seedlings by placing them outside during the day.",
+        "startOutside2" : {
+            "begin" : "Begin transplanting your Fall Kohlrabi seedlings into your garden, in loose, well-draining soil",
+            "covered" : ", under cover of floating row-covers,",
+            "uncovered" : ",",
+            "remainingBoth" :  " and in a part of your garden that receives full sun. Space your transplants 6 inches apart, in rows that are 24 inches apart. Apply a 1 inch layer of mulch around the base of each plant after transplanting."
+        },
+        "directOutside2" : {
+            "begin" : "Begin sowing your Fall Kohlrabi seeds directly into your garden, in loose, well-draining soil",
+            "covered" : ", under cover of floating row-covers,",
+            "uncovered" : ",",
+            "remainingBoth" : " and in a part of your garden that receives full sun. Sow 10 seeds per foot of row space, at a depth of 0.25 inches."
+        },
+        "stopOutside2" : "Get any remaining Fall Kohlrabi seeds or seedlings into the ground and then cease any further planting if you haven't already.",
+        "firstMulch2" : "Apply a 1 inch layer of mulch around the base of each Fall Kohlrabi seedling.",
+        "startHarvest2" : "If your Fall Kohlrabi bulbs are 2-3 inches in diameter, you may begin harvesting them by cutting them from their stalks with a sharp knife, just above the soil-line."
+    },
+
+    "leeks": {
+        "sun" : "full sun",
+        "soil" : ", well draining soil",
+        "spacing" : ", and 8 - 10 inches of space per plant, given 24 inches of space between rows",
+        "water" : "",
+        "mulch" : "",
+        "fertilize" : ", fertilizer applied once a month",
+
+        "startInside" : "Begin sowing your Leek seeds indoors in seedling trays at a depth of 0.5 inches, 2-3 seeds planted together per 2 inch square cell.",
+        "startHardenOff" : "Begin hardening off your Leek seedlings by setting them in the garden during the day.",
+        "startOutside" : {
+            "begin" : "Begin transplanting your Leek seedlings into your garden",
+            "covered" : ", under cover of high-tunnel or floating row-cover,",
+            "uncovered" : ",",
+            "remainingBoth" : " in rich, moist and well-draining soil, and in a part of your garden that receives full sun. Set transplants 8-10 inches apart in rows that are 24 inches apart. Or, for better moisture retention and blanching throughout the season, you can dig a 6 inch deep trench and set the transplants in the bottom of the trench, 6 inches apart from one another. Then, cover the transplants with 2 inches of soil and mulch."
+        },
+        "directOutside" : {
+            "begin" : "Begin sowing your Leek seeds directly into your garden",
+            "covered" : ", under cover of high-tunnel or floating row-cover,",
+            "uncovered" : ",",
+            "remainingBoth" : " in rich, moist and well-draining soil, and in a part of your garden that receives full sun. Sow 2-3 seeds together at a depth of 0.5 inch, 8-10 inches apart in rows that are 24 inches apart. Or, for better moisture retention and blanching throughout the season, you can dig a 6 inch deep trench and sow your seeds in the bottom of the trench, 6 inches apart from one another."
+        },
+        "stopOutside" : "Get any remaining Leek transplants or seeds into the ground and then cease and further planting, if you have not already.",
+        "firstBlanch" : "Blanch your Leeks by building up the soil around the base of each plant several inches. Additionally mix in a layer of compost and liquid fertilizer into the soil around the plant.",
+        "secondBlanch" : "Blanch your Leeks again by building up the soil around the base of each plant several more inches. Additionally mix in a layer of compost and liquid fertilizer into the soil around the plant.",
+        "firstMulch" : "Apply a 2 inch layer of mulch around each Leek.",
+        "startHarvest" : "You can begin to harvest your Leeks as needed. Carefully loosen the soil around the plant with a pitchfork or shovel and then gently pull the leek up by its stalk.",
+
+        "startInside2" : "Begin sowing your Fall Leek seeds indoors in seedling trays at a depth of 0.5 inches, 2-3 seeds planted together per 2 inch square cell.",
+        "startHardenOff2" : "Begin hardening off your Fall Leek seedlings by setting them in the garden during the day.",
+        "startOutside2" : {
+            "begin" : "Begin transplanting your Fall Leek seedlings into your garden",
+            "covered" : ", under cover of high-tunnel or floating row-cover,",
+            "uncovered" : ",",
+            "remainingBoth" : " in rich, moist and well-draining soil, and in a part of your garden that receives full sun. Set transplants 8-10 inches apart in rows that are 24 inches apart. Or, for better moisture retention and blanching throughout the season, you can dig a 6 inch deep trench and set the transplants in the bottom of the trench, 6 inches apart from one another. Then, cover the transplants with 2 inches of soil and mulch."
+        },
+        "directOutside2" : {
+            "begin" : "Begin sowing your Fall Leek seeds directly into your garden",
+            "covered" : ", under cover of high-tunnel or floating row-cover,",
+            "uncovered" : ",",
+            "remainingBoth" : " in rich, moist and well-draining soil, and in a part of your garden that receives full sun. Sow 2-3 seeds together at a depth of 0.5 inch, 8-10 inches apart in rows that are 24 inches apart. Or, for better moisture retention and blanching throughout the season, you can dig a 6 inch deep trench and sow your seeds in the bottom of the trench, 6 inches apart from one another."
+        },
+        "stopOutside2" : "Get any remaining Fall Leek transplants or seeds into the ground and then cease and further planting, if you have not already.",
+        "firstBlanch2" : "Blanch your Fall Leeks by building up the soil around the base of each plant several inches. Additionally mix in a layer of compost and liquid fertilizer into the soil around the plant.",
+        "secondBlanch2" : "Blanch your Fall Leeks again by building up the soil around the base of each plant several more inches. Additionally mix in a layer of compost and liquid fertilizer into the soil around the plant.",
+        "firstMulch2" : "Apply a 2 inch layer of mulch around each of your Fall Leeks.",
+        "startHarvest2" : "You can begin to harvest your Fall Leeks as needed. Carefully loosen the soil around the plant with a pitchfork or shovel and then gently pull the leek up by its stalk."
+    },
+
+    "lettucehead": {
+        "sun" : "full sun",
+        "soil" : " loose and well draining soil",
+        "spacing" : ", and 9 - 12 inches per plant, given 12 inches of space between rows",
+        "water" : "",
+        "mulch" : "",
+        "fertilize" : ", fertilizer applier 1 week before planting",
+
+        "startInside" :
+            "Begin sowing your Lettuce (head variety) seeds indoors, in 4-inch deep seedling trays at a depth of 0.25 inch, spaced 2 inches apart. Water thoroughly",
+        "startHardenOff" : "Begin hardening off your Lettuce (head variety) seedlings by placing them in the garden during the day. Also, at this time thoroughly till in 2 inches of compost and organic fertilizer into the bed you expect to plant your Lettuce.",
+        "startOutside" : {
+            "begin" : "Begin transplanting your Lettuce (head variety) seedlings into your garden, in loose, well-draining soil",
+            "covered" : ", under cover of either a high-tunnel or floating row-cover,",
+            "uncovered" : ",",
+            "remainingBoth" : " and in a part of your garden that receives full sun. Set Transplants 9-12 inches apart from one another, in rows that are 12 inches apart."
+        },
+        "directOutside" : {
+            "begin" : "Begin sowing your Lettuce (head variety) seeds directly into your garden, into loose, well-draining soil",
+            "covered" : ", under cover of either a high-tunnel or floating-row cover,",
+            "uncovered" : ",",
+            "remainingBoth" : " and in a part of your garden that receives full sun. Sow 5-10 seeds per foot of row space, in rows that are 12 inches apart, and cover with 0.25 inch of soil and water thoroughly."
+        },
+        "firstThin" : "Thin your Lettuce seedlings to a spacing of 9-12 inches per plant",
+        "stopOutside" : "Get any remaining Lettuce (head variety) seeds into the ground, or seedlings transplanted, and then cease any further planting if you haven't already.",
+        "fertilizePlantsFirstTime" : "Apply a dose of nitrogen-rich fertilizer, and a layer of compost and humus to your Lettuce seedlings. Following the fertilizing by applying a 1 inch layer of mulch around the base of each plant.",
+
+        "startHarvest" : "If your Lettuce (head variety) heads have just reached full size, you can begin harvesting now, by cutting the head off just above the soil line with a sharp knife.",
+
+        "startInside2" :
+            "Begin sowing your Lettuce (head variety) seeds indoors in 4-inch deep seedling trays at a depth of 0.25 inch, spaced 2 inches apart. Water thoroughly",
+        "startHardenOff2" : "Begin hardening off your Lettuce (head variety) seedlings by placing them in the garden during the day. Also, at this time thoroughly till in 2 inches of compost and organic fertilizer into the bed you expect to plant your Lettuce.",
+        "firstMulch2" : "Thoroughly till in 2 inches of compost and organic fertilizer into the bed you expect to plant your Lettuce, and then cover the entire bed with a 4 inch layer of mulch to help reduce the soil temperature prior to planting.",
+        "startOutside2" : {
+            "begin" : "Remove the layer of mulch left across the bed and begin transplanting your Lettuce (head variety) seedlings into your garden, in loose, well-draining soil",
+            "covered" : ", under cover of either a high-tunnel or floating row-cover,",
+            "uncovered" : ",",
+            "remainingBoth" : " and in a part of your garden that receives full sun. Set Transplants 9-12 inches apart from one another, in rows that are 12 inches apart."
+        },
+        "directOutside2" : {
+            "begin" : "Remove the layer of mulch left across the bed and begin sowing your Lettuce (head variety) seeds directly into your garden, into loose, well-draining soil",
+            "covered" : ", under cover of either a high-tunnel or floating-row cover,",
+            "uncovered" : ",",
+            "remainingBoth" : " and in a part of your garden that receives full sun. Sow 5-10 seeds per foot of row space, in rows that are 12 inches apart, and cover with 0.25 inch of soil and water thoroughly."
+        },
+        "firstThin2" : "Thin your Lettuce seedlings to a spacing of 9-12 inches per plant",
+        "stopOutside2" : "Get any remaining Fall Lettuce (head variety) seeds into the ground, or seedlings transplanted, and then cease any further planting if you haven't already.",
+        "fertilizePlantsFirstTime2" : "Apply a dose of nitrogen-rich fertilizer, and a layer of compost and humus to your Lettuce seedlings. Following the fertilizing by applying a 1 inch layer of mulch around the base of each plant.",
+        "startHarvest2" : "If your Fall Lettuce (head variety) heads have just reached full size, you can begin harvesting now, by cutting the head off just above the soil line with a sharp knife."
+    },
+
+    "lettuceleaf": {
+        "sun" : "full sun",
+        "soil" : ", loose and well draining soil",
+        "spacing" : ", and 4 inches of space per plant, given 12 inches of space between rows",
+        "water" : "",
+        "mulch" : "",
+        "fertilize" : ", fertilizer applied 1 week before planting and once in mid-season",
+
+        "startInside" :
+            "Begin sowing your Lettuce (leaf variety) seeds indoors, in 4-inch deep seedling trays at a depth of 0.25 inch, spaced 2 inches apart. Water thoroughly",
+        "startHardenOff" : "Begin hardening off your Lettuce (leaf variety) seedlings by placing them in the garden during the day. Also, at this time thoroughly till in 2 inches of compost and organic fertilizer into the bed you expect to plant your Lettuce.",
+        "startOutside" : {
+            "begin" : "Begin transplanting your Lettuce (leaf variety) seedlings into your garden, in loose, well-draining soil",
+            "covered" : ", under cover of either a high-tunnel or floating row-cover,",
+            "uncovered" : ",",
+            "remainingBoth" : " and in a part of your garden that receives full sun. Set Transplants 9-12 inches apart from one another, in rows that are 12 inches apart."
+        },
+        "directOutside" : {
+            "begin" : "Begin sowing your Lettuce (leaf variety) seeds directly into your garden, into loose, well-draining soil",
+            "covered" : ", under cover of either a high-tunnel or floating-row cover,",
+            "uncovered" : ",",
+            "remainingBoth" : " and in a part of your garden that receives full sun. Sow 5-10 seeds per foot of row space, in rows that are 12 inches apart, and cover with 0.25 inch of soil and water thoroughly."
+        },
+        "firstThin" : "Thin your Lettuce seedlings to a spacing of 4 inches per plant",
+        "stopOutside" : "Get any remaining Lettuce (leaf variety) seeds into the ground, or seedlings transplanted, and then cease any further planting if you haven't already.",
+        "fertilizePlantsFirstTime" : "Apply a dose of nitrogen-rich fertilizer, and a layer of compost and humus to your Lettuce seedlings. Following the fertilizing by applying a 1 inch layer of mulch around the base of each plant.",
+        "startHarvest" : "If your Lettuce (leaf variety) heads have just reached full size, you can begin harvesting now, by cutting the head off just above the soil line with a sharp knife.",
+
+        "startInside2" :
+            "Begin sowing your Fall Lettuce (leaf variety) seeds indoors in 4-inch deep seedling trays at a depth of 0.25 inch, spaced 2 inches apart. Water thoroughly",
+        "startHardenOff2" : "Begin hardening off your Fall Lettuce (head variety) seedlings by placing them in the garden during the day. Also, at this time thoroughly till in 2 inches of compost and organic fertilizer into the bed you expect to plant your Lettuce.",
+        "firstMulch2" : "Thoroughly till in 2 inches of compost and organic fertilizer into the bed you expect to plant your Fall Lettuce, and then cover the entire bed with a 4 inch layer of mulch to help reduce the soil temperature prior to planting.",
+        "startOutside2" : {
+            "begin" : "Remove the layer of mulch left across the bed and begin transplanting your Fall Lettuce (leaf variety) seedlings into your garden, in loose, well-draining soil",
+            "covered" : ", under cover of either a high-tunnel or floating row-cover,",
+            "uncovered" : ",",
+            "remainingBoth" : " and in a part of your garden that receives full sun. Set Transplants 4 inches apart from one another, in rows that are 12 inches apart."
+        },
+        "directOutside2" : {
+            "begin" : "Remove the layer of mulch left across the bed and begin sowing your Fall Lettuce (leaf variety) seeds directly into your garden, into loose, well-draining soil",
+            "covered" : ", under cover of either a high-tunnel or floating-row cover,",
+            "uncovered" : ",",
+            "remainingBoth" : " and in a part of your garden that receives full sun. Sow 5-10 seeds per foot of row space, in rows that are 12 inches apart, and cover with 0.25 inch of soil and water thoroughly."
+        },
+        "firstThin2" : "Thin your Lettuce seedlings to a spacing of 4 inches per plant",
+        "stopOutside2" : "Get any remaining Fall Lettuce (leaf variety) seeds into the ground, or seedlings transplanted, and then cease any further planting if you haven't already.",
+        "fertilizePlantsFirstTime2" : "Apply a dose of nitrogen-rich fertilizer, and a layer of compost and humus to your Fall Lettuce seedlings. Following the fertilizing by applying a 1 inch layer of mulch around the base of each plant.",
+        "startHarvest2" : "If your Fall Lettuce (leaf variety) heads have just reached full size, you can begin harvesting now, by cutting the head off just above the soil line with a sharp knife."
+    },
+
+    "okra": {
+        "sun" : "full sun",
+        "soil" : ", well draining soil",
+        "spacing" : ", and 18 inches of spacing per plant, given 24 inches of spacing between rows",
+        "water" : "consistently",
+        "mulch" : "",
+        "fertilize" : "",
+
+        "startInside" : "Begin sowing Okra seeds indoors, in individual peat pots, to a depth of 0.5 inch.",
+        "startOutside" : {
+            "begin" : "Begin transplanting your Okra seedlings into your garden, into moist, fertile, well-draining soil",
+            "covered" : ", under cover of either a high-tunnel or greenhouse,",
+            "uncovered" : ",",
+            "remainingBoth" : " and in a part of your garden that receives full sun. Set transplants 18 inches apart, in rows that are 24 inches apart."
+        },
+        "directOutside" : {
+            "begin" : "Begin sowing Okra seeds directly into your garden, into moist, fertile, well-draining soil",
+            "covered" : ", under cover of either a high-tunnel or greenhouse,",
+            "uncovered" : ",",
+            "remainingBoth" : " and in a part of your garden that receives full sun. Sow seeds to a depth of 0.5 inch, spaceed 3-4 inches apart, in rows that are 24 inches apart."
+        },
+        "stopOutside" : "Get any remaining Okra seedlings or seeds into the ground and then cease any further planting, if you have not already.",
+        "firstThin" : "If your Okra seedlings are 3 inches tall, thin your Okra seedlings to a spacing of 18-24 inches per plant.",
+        "firstMulch" : "Remove all weeds from around your Okra seedlings and then apply a 6 inch layer of mulch across the entire bed.",
+        "startHarvest" : "If your Okra pods are 2-3 inches in length, you can begin harvesting, repeating every few days.",
+
+        "startInside2" : "Begin sowing Fall Okra seeds indoors in individual peat pots to a depth of 0.5 inch.",
+        "startOutside2" : {
+            "begin" : "Begin transplanting your Fall Okra seedlings into your garden, into moist, fertile, well-draining soil",
+            "covered" : ", under cover of either a high-tunnel or greenhouse,",
+            "uncovered" : ",",
+            "remainingBoth" : " and in a part of your garden that receives full sun. Set transplants 18 inches apart, in rows that are 24 inches apart."
+        },
+        "directOutside2" : {
+            "begin" : "Begin sowing Fall Okra seeds directly into your garden, into moist, fertile, well-draining soil",
+            "covered" : ", under cover of either a high-tunnel or greenhouse,",
+            "uncovered" : ",",
+            "remainingBoth" : " and in a part of your garden that receives full sun. Sow seeds to a depth of 0.5 inch, spaceed 3-4 inches apart, in rows that are 24 inches apart."
+        },
+        "stopOutside2" : "Get any remaining Fall Okra seedlings or seeds into the ground and then cease any further planting, if you have not already.",
+        "firstThin2" : "If your Fall Okra seedlings are 3 inches tall, thin your Okra seedlings to a spacing of 18-24 inches per plant.",
+        "firstMulch2" : "Remove all weeds from around your Fall Okra seedlings and then apply a 6 inch layer of mulch across the entire bed.",
+        "startHarvest2" : "If your Fall Okra pods are 2-3 inches in length, you can begin harvesting, repeating every few days."
+
+    },
+
+    "onions": {
+        "sun" : "full sun",
+        "soil" : ", loose and well draining soil",
+        "spacing" : "",
+        "water" : ", consistent watering",
+        "mulch" : "",
+        "fertilize" : "",
+
+        "startInside" : "Begin sowing Onion seeds indoors, in seedling trays. Sow 1 or 2 seeds per 2 inch cell, or spaced 2 inches apart, and at a depth of 0.5 inch.",
+        "startOutside" : {
+            "begin" : "Till in manure, compost and nitrogen fertilizer into the bed you plan to plant your Onions and then begin transplanting your Onion sets",
+            "covered" : ", under cover of either a high-tunnel or floating row-cover,",
+            "uncovered" : ",",
+            "remainingBoth" : " and in a part of your garden that receives full sun. If multiple sets are growing in tandem to one another, gently tease them apart  and transplant to the depth of the set itself, so just the green tip barely emerges from the soil. Set each transplant 3-4 inches apart, in rows that are 12-18 inches apart. "
+        },
+        "directOutside" : {
+            "begin" : "Till in manure, compost and nitrogen fertilizer into the bed you plan to plant your Onions and then begin sowing Onion seeds directly into your garden, in loose, fertile, and well draining soil",
+            "covered" : ", under cover of either a high-tunnel or floating row-cover,",
+            "uncovered" : ",",
+            "remainingBoth" : " and in a part of your garden that receives full sun. Sow seeds to a depth of 0.5 inch, and spaced 1 inch apart, in rows that are 12-18 inches apart. Set each transplant 3-4 inches apart, in rows that are 12-18 inches apart."
+        },
+        "stopOutside" : "Get any remaining Onion sets or seeds into the ground and then cease any further planting, if you have not already",
+        "fertilizePlantsFirstTime" : "Side dress your Onions with compost and nitrogen fertilizer.",
+        "fertilizePlantsSecondTime" : "Side dress your Onions with another round of compost and nitrogen fertilizer.",
+        "startHarvest" :  "If the Onion tops have started to fall over naturally and bulbs have paper-like skin, then you can start harvesting. Carefully loosen the soil with a pitchfork or shovel and then gently pull up the onion by its stalk. Allow harvested onions to cure for a week after harvesting.",
+
+        "startInside2" : "Begin sowing Fall Onion seeds indoors, in seedling trays. Sow 1 or 2 seeds per 2 inch cell, or spaced 2 inches apart, and at a depth of 0.5 inch.",
+        "startOutside2" : {
+            "begin" : "Till in manure, compost and nitrogen fertilizer into the bed you plan to plant your Fall Onions and then begin transplanting your Fall Onion sets",
+            "covered" : ", under cover of either a high-tunnel or floating row-cover,",
+            "uncovered" : ",",
+            "remainingBoth" : "and in a part of your garden that receives full sun. If multiple sets are growing in tandem to one another, gently tease them apart  and transplant to the depth of the set itself, so just the green tip barely emerges from the soil. Set each transplant 3-4 inches apart, in rows that are 12-18 inches apart. "
+        },
+        "directOutside2" : {
+            "begin" : "Till in manure, compost and nitrogen fertilizer into the bed you plan to plant your Fall Onions and then begin sowing Fall Onion seeds directly into your garden, in loose, fertile, and well draining soil",
+            "covered" : ", under cover of either a high-tunnel or floating row-cover,",
+            "uncovered" : ",",
+            "remainingBoth" : " and in a part of your garden that receives full sun. Sow seeds to a depth of 0.5 inch, and spaced 1 inch apart, in rows that are 12-18 inches apart. Set each transplant 3-4 inches apart, in rows that are 12-18 inches apart."
+        },
+        "stopOutside2" : "Get any remaining Fall Onion sets or seeds into the ground and then cease any further planting, if you have not already",
+        "fertilizePlantsFirstTime2" : "Side dress your Fall Onions with compost and nitrogen fertilizer.",
+        "fertilizePlantsSecondTime2" : "Side dress your Fall Onions with another round of compost and nitrogen fertilizer.",
+        "startHarvest2" :  "If the Fall Onion tops have started to fall over naturally and bulbs have paper-like skin, then you can start harvesting. Carefully loosen the soil with a pitchfork or shovel and then gently pull up the onion by its stalk. Allow harvested onions to cure for a week after harvesting."
+    },
+
+    "parsley": {
+        "sun" : "full sun",
+        "soil" : ", rich, moist and well draining soil",
+        "spacing" : ", and 8 inches of spacing per plant, given 12 inches of spacing between rows",
+        "water" : ", even and consistent watering",
+        "mulch" : "",
+        "fertilize" : "",
+
+        "startInside" : "Begin sowing your Parsley seeds indoors, in individual pots, at a depth of 0.5 inch.",
+        "startOutside" : {
+            "begin" : "Begin transplanting your Parsley seedlings into rich, moist, well-draining soil in your garden",
+            "covered" : ", under cover of either a high-tunnel or floating row-cover,",
+            "uncovered" : ",",
+            "remainingBoth" : " and in a part of your garden that receives full sun. Space your transplants 8 inches apart, in rows that are 12 inches apart."
+        },
+        "stopOutside" : "Get any remaining Parsley transplants into the ground and then cease any further planting, if you haven't already.",
+        "startHarvest" : "If your Parsley leaf stems have three leaves, then you can begin harvesting!"
+    },
+
+    "parsnips": {
+        "sun" : "full sun to partial shade",
+        "soil" : ", well draining soil",
+        "spacing" : ", and 3 inches of spacing per plant, given 12 inches of spacing between rows",
+        "water" : ", consistent watering",
+        "mulch" : ", a 1 - 2 inch layer of mulch applied several weeks after seedlings emerge",
+        "fertilize" : "",
+
+        "directOutside" : {
+            "begin" : "Begin sowing your Parsnip seeds directly into loose, rich, well-draining soil in your garden",
+            "covered" : ", under cover of either a high-tunnel or floating row-cover,",
+            "uncovered" : ",",
+            "remainingBoth" : " and in a part of your garden that receives full sun to partial shade. Sow seeds to a depth of 0.5 inch, spaced 0.5 inch apart, in rows spaced 12 inches apart. Note that it's recommended to cover your seeds with a 0.5 inch layer of vermiculite. "
+        },
+        "stopOutside" : "Get any remaining Parsnip seeds into the ground and then cease any further planting, if you haven't already.",
+        "firstThin" : "Thin your Parsnip seedlings to a spacing of 3 inches per plant. Also at this time, apply a 1-2 inch layer of organic mulch around the seedlings to help retain moisture.",
+        "startHarvest" : "If your Parsnips have begun to push out of the ground, you can begin harvesting them by carefully loosening up the surrounding soil with a pitchfork or shovel and then gently pulling them up by their stalks."
+    },
+
+    "peas": {
+        "sun" : "full sun",
+        "soil" : ", rich and well draining soil",
+        "spacing" : ", and 2 inches of space per plant, given 36 - 48 inches of space between rows",
+        "water" : ", consistent watering (even daily watering in mid-summer)",
+        "mulch" : "",
+        "fertilize" : "",
+
+        "directOutside" : {
+            "begin" : "In a part of your garden that receives full sun, thoroughly till in a layer of compost and wood ash into the garden bed you plan to plant your Peas, and then begin sowing your Pea seeds directly into the bed",
+            "covered" : ", under cover of either a high-tunnel or floating row-cover.",
+            "uncovered" : ".",
+            "remainingBoth" : " Sow seeds to a depth of 1-1.5 inches, and spaced 2 inches apart. If you choose to grow bush peas, space your rows 36 inches apart. For vine peas, space your rows 48 inches apart and set trellises for the peas to climb."
+        },
+        "stopOutside" : "Get any remaining Pea seeds into the ground and then cease any further planting if you haven't already.",
+        "startHarvest" : "If your Pea pods are plump but color has not faded yet, you can begin harvesting by simply pinching off the pods with your fingers."
+    },
+
+    "pepperssweet": {
+        "sun" : "full sun",
+        "soil" : ", well draining soil",
+        "spacing" : ", and 15 - 18 inches of space per plant, given 24 inches of space between rows",
+        "water" : ", heavy watering on a weekly basis",
+        "mulch" : "",
+        "fertilize" : "",
+
+        "startInside" : "Begin sowing your Sweet Pepper seeds indoors, into individual pots. Sow 3 seeds per pot, at a depth of 0.5 inch.",
+        "firstThin" : "Thin your Sweet Pepper seedlings by removing the weakest individual seedling from each seedling pot.",
+        "startHardenOff" : "In a part of your garden that receives full sun, and in moist, loamy, well-draining soil, till in a layer of compost or fertilizer into the bed you plan to plant your Sweet Peppers. Also, at this time, begin hardening off your Pepper seedlings by placing them in the garden during the day.",
+        "startOutside" : {
+            "begin" : "Begin transplanting your Sweet Pepper seedlings into your garden",
+            "covered" : ", under cover of either a greenhouse or high-tunnel.",
+            "uncovered" : ".",
+            "remainingBoth" : " Space transplants 15-18 inches apart, in rows that are 24 inches apart. Apply a 1-2 inch layer of organic mulch around each of the transplants to help maintain moisture and temperature. You can place cages around the seedlings if you have them available."
+        },
+        "stopOutside" : "Get any remaining Sweet Pepper seedlings into the ground and then cease any further planting, if you haven't already.",
+        "fertilizePlantsFirstTime" : "Apply a dose of fertilizer or aged compost to your Sweet Pepper plants.",
+        "startHarvest" : "If the colors of your Sweet Peppers are fully developed, you can begin harvesting! Gently twist off the fruit by its stem with your hands.",
+
+        "startInside2" : "Begin sowing your Fall Sweet Pepper seeds indoors into individual pots. Sow 3 seeds per pot, at a depth of 0.5 inch.",
+        "firstThin2" : "Thin your Fall Sweet Pepper seedlings by removing the weakest individual seedling from each seedling pot.",
+        "startHardenOff2" : "In a part of your garden that receives full sun, and in moist, loamy, well-draining soil, till in a layer of compost or fertilizer into the bed you plan to plant your Sweet Pepper. Also, at this time, begin hardening off your Fall Sweet Pepper seedlings by placing them in the garden during the day.",
+        "startOutside2" : {
+            "begin" : "Begin transplanting your Fall Sweet Pepper seedlings into your garden",
+            "covered" : ", under cover of either a greenhouse or high-tunnel.",
+            "uncovered" : ".",
+            "remainingBoth" : " Space transplants 15-18 inches apart, in rows that are 24 inches apart. Apply a 1-2 inch layer of organic mulch around each of the transplants to help maintain moisture and temperature. You can place cages around the seedlings if you have them available."
+        },
+        "stopOutside2" : "Get any remaining Fall Sweet Pepper seedlings into the ground and then cease any further planting, if you haven't already.",
+        "fertilizePlantsFirstTime2" : "Apply a dose of fertilizer or aged compost to your Fall Sweet Pepper plants.",
+        "startHarvest2" : "If the colors of your Fall Sweet Peppers are fully developed, you can begin harvesting! Simply twist off the fruit by its stem with your hands."
+    },
+
+    "peppershot": {
+        "sun" : "full sun",
+        "soil" : ", well draining soil",
+        "spacing" : ", and 12 - 18 inches of space per plant, given 24 inches of space between rows",
+        "water" : ", heavy watering on a weekly basis",
+        "mulch" : "",
+        "fertilize" : "",
+
+        "startInside" : "Begin sowing your Chili Pepper seeds indoors, into individual pots. Sow 3 seeds per pot, at a depth of 0.25-0.5 inch.",
+        "firstThin" : "Thin your Chili Pepper seedlings by removing the weakest individual seedling from each seedling pot.",
+        "startHardenOff" : "In a part of your garden that receives full sun, and in moist, loamy, well-draining soil, till in a layer of compost or fertilizer into the bed you plan to plant your Chili Peppers. Also, at this time, begin hardening off your Pepper seedlings by placing them in the garden during the day.",
+        "startOutside" : {
+            "begin" : "Begin transplanting your Chili Pepper seedlings into your garden",
+            "covered" : ", under cover of either a greenhouse or high-tunnel.",
+            "uncovered" : ".",
+            "remainingBoth" : " Space transplants 15-18 inches apart, in rows that are 24 inches apart. Apply a 1-2 inch layer of organic mulch around each of the transplants to help maintain moisture and temperature. You can place cages around the seedlings if you have them available"
+        },
+        "stopOutside" : "Get any remaining Chili Pepper seedlings into the ground and then cease any further planting, if you haven't already.",
+        "fertilizePlantsFirstTime" : "Apply a dose of fertilizer or aged compost to your Chili Pepper plants.",
+        "startHarvest" : "If the colors of your Chili Peppers are fully developed (fully bright red, yellow or orange, depending on the variety), you can begin harvesting! Gently twist off the fruit by its stem with your hands.",
+
+        "startInside2" : "Begin sowing your Fall Chili Peppers seeds indoors into individual pots. Sow 3 seeds per pot, at a depth of 0.25-0.5 inch.",
+        "firstThin2" : "Thin your Fall Chili Pepper seedlings by removing the weakest individual seedling from each seedling pot.",
+        "startHardenOff2" : "In a part of your garden that receives full sun, and in moist, loamy, well-draining soil, till in a layer of compost or fertilizer into the bed you plan to plant your Fall Chili Peppers. Also, at this time, begin hardening off your Pepper seedlings by placing them in the garden during the day.",
+        "startOutside2" : {
+            "begin" : "Begin transplanting your Fall Chili Pepper seedlings into your garden",
+            "covered" : ", under cover of either a greenhouse or high-tunnel.",
+            "uncovered" : ".",
+            "remainingBoth" : " Space transplants 15-18 inches apart, in rows that are 24 inches apart. Apply a 1-2 inch layer of organic mulch around each of the transplants to help maintain moisture and temperature. You can place cages around the seedlings if you have them available."
+        },
+        "stopOutside2" : "Get any remaining Fall Chili Pepper seedlings into the ground and then cease any further planting, if you haven't already.",
+        "fertilizePlantsFirstTime2" : "Apply a dose of fertilizer or aged compost around the bases of your Chili Pepper plants.",
+        "startHarvest2" : "If the colors of your Fall Chili Peppers are fully developed (fully bright red, yellow or orange, depending on the variety), you can begin harvesting! Gently twist off the fruit by its stem with your hands."
+    },
+
+    "potatoeswhite": {
+        "sun" : "full sun",
+        "soil" : ", loose, fertile and well draining soil",
+        "spacing" : ", and 12 inches of space per plant, given 30 - 36 inches of space between trenches",
+        "water" : "",
+        "mulch" : "",
+        "fertilize" : "",
+
+        "directOutside" : {
+            "begin" : "Begin planting your seed potatoes in your garden, in loose, well-draining soil, in a part of your garden that receives full sun",
+            "covered" : ", and under cover of either high-tunnels or floating row-covers.",
+            "uncovered" : ".",
+            "remainingBoth" : " Dig 8-inch deep and 6-inch wide trenches in which to plant your potatoes. Space your trenches 30-36 inches apart. At the bottom of your trenches mix in 2 inches of organic compost and manure before planting. Make sure your seed potato sections each have 1-2 eyes on them, and before you put them in the ground, allow them to cure for 2 days. Then, lay the seed potato sections into the trenches, spaced 12 inches apart. Cover the seed potatoes with 4 inches of soil."
+        },
+        "stopOutside" : "Get any remaining seed Potatoes into the ground and then cease any further planting, if you haven't already.",
+        "changeWaterCycle" : "Begin increasing the frequency and quantity of water for your Potatoes.",
+        "firstBlanch" : "Hill up your Potatoes by burying the bottom 6 inches of the plant with soil.",
+        "secondBlanch" : "Hill up your Potatoes again by burying the bottom 6inches of the plant with more soil.",
+        "startHarvest" :  "If your Potato plants have already past flowering, then you can begin harvesting. Carefully loosen the soil around the plant in an 18 inch circumference with a pitchfork or shovel. Pull up the stalk of the potato plant and then dig out the potatoes from the loosened soil with your hands. ",
+
+        "directOutside2" : {
+            "begin" : "Begin planting your Fall seed Potatoes in your garden, in loose, well-draining soil, in a part of your garden that receives full sun",
+            "covered" : ", and under cover of either high-tunnels or floating row-covers.",
+            "uncovered" : ".",
+            "remainingBoth" : " Dig 8-inch deep and 6-inch wide trenches in which to plant your potatoes. Space your trenches 30-36 inches apart. At the bottom of your trenches mix in 2 inches of organic compost and manure before planting. Make sure your seed Potato sections each have 1-2 eyes on them, and before you put them in the ground, allow them to cure for 2 days. Then, lay the seed Potato sections into the trenches, spaced 12 inches apart. Cover the seed Potatoes with 4 inches of soil."
+        },
+        "stopOutside2" : "Get any remaining Fall seed Potatoes into the ground and then cease any further planting, if you haven't already.",
+        "changeWaterCycle2" : "Begin increasing the frequency and quantity of water for your Fall Potatoes.",
+        "firstBlanch2" : "Hill up your Fall Potatoes by burying the bottom 6 inches of the plant with soil.",
+        "secondBlanch2" : "Hill up your Fall Potatoes again by burying the bottom 6inches of the plant with more soil.",
+        "startHarvest2" :  "If your Fall Potato plants have already past flowering, then you can begin harvesting. Carefully loosen the soil around the plant in an 18 inch circumference with a pitchfork or shovel. Pull up the stalk of the potato plant and then dig out the potatoes from the loosened soil with your hands. "
+
+    },
+
+    "pumpkins": {
+        "sun" : "full sun to partial shade",
+        "soil" : ", well draining soil",
+        "spacing" : ", and 48 inches of space per plant, given 72 inches of space between rows",
+        "water" : "",
+        "mulch" : "",
+        "fertilize" : "",
+
+        "startInside" : "Begin sowing your Pumpkin seeds indoors, into individual peat pots at a depth of 1 inch.",
+        "startOutside" : {
+            "begin" : "Begin transplanting your Pumpkin seedlings into compost-rich, fertile, moist and well-draining soil",
+            "covered" : ", under cover of either a high-tunnel or floating row-cover,",
+            "uncovered" : ",",
+            "remainingBoth" : " and in a part of your garden that receives full sun. Till in 3-4 inches of aged manure to a depth of 10-12 inches before doing any planting. If you are growing your Pumpkins in rows, space your rows 72 inches apart and space the seedlings 48 inches apart. For planting on hills, which helps to maintain higher soil temperature, build hills 3-4 feet in diameter, 8-12 inches tall and 5-8 feet apart. Set 3 seedlings evenly spaced from the peak of the hill and evenly spaced from each other on the hill."
+        },
+        "directOutside" : {
+            "begin" : "In a part of your garden that receives full sun, till in 3-4 inches of aged manure to a depth of 10-12 inches into the bed you plan to plant your Pumpkins. Then, begin sowing your Pumpkin seeds directly into the bed",
+            "covered" : ", under cover of either a high-tunnel or floating row-cover.",
+            "uncovered" : ".",
+            "remainingBoth" : " If you are growing your Pumpkins in rows, space your rows 72 inches apart and sow the seeds 12 inches apart, to a depth of 1 inch. For planting on hills, which helps to maintain higher soil temperature, build hills 3-4 feet in diameter, 8-12 inches tall and 5-8 feet apart.  Sow 5 seeds to a depth of 1 inch, evenly spaced from the peak of the hill and evenly spaced from each other on the hill."
+        },
+        "stopOutside" : "Get any remaining Pumkpin seedlings or seeds into the ground and then cease any further planting, if you haven't already.",
+        "firstThin" : "Thin your Pumpkin seedlings. If growing in rows, thin to 48 inches apart. If growing on hills, leave the 3 most hearty seedlings.",
+        "fertilizePlantsFirstTime" : "Apply a side-dressing of high-nitrogen fertilizer, compost or manure to the root-zones of your Pumpkin plants.",
+        "fertilizePlantsSecondTime" : "Apply a side-dressing of high-phosphorus fertilizer to the root-zone of your Pumpkin plants.",
+        "startHarvest" : "If the skins of your pumpkins have turned deep orange, and the vines have begun to dry, you can begin harvesting by snipping the Pumpkins off of the vine with a pair of garden shears.",
+
+        "startInside2" : "Begin sowing your Fall Pumpkin seeds indoors into individual peat pots at a depth of 1 inch.",
+        "startOutside2" : {
+            "begin" : "Begin transplanting your Fall Pumpkin seedlings into compost-rich, fertile, moist and well-draining soil",
+            "covered" : ", under cover of either a high-tunnel or floating row-cover,",
+            "uncovered" : ",",
+            "remainingBoth" : " and in a part of your garden that receives full sun. Till in 3-4 inches of aged manure to a depth of 10-12 inches before doing any planting. If you are growing your Pumpkins in rows, space your rows 72 inches apart and space the seedlings 48 inches apart. For planting on hills, which helps to maintain higher soil temperature, build hills 3-4 feet in diameter, 8-12 inches tall and 5-8 feet apart. Set 3 seedlings evenly spaced from the peak of the hill and evenly spaced from each other on the hill."
+        },
+        "directOutside2" : {
+            "begin" : "In a part of your garden that receives full sun, till in 3-4 inches of aged manure to a depth of 10-12 inches into the bed you plan to plant your Pumpkins. Then, begin sowing your Fall Pumpkin seeds directly into the bed",
+            "covered" : ", under cover of either a high-tunnel or floating row-cover.",
+            "uncovered" : ".",
+            "remainingBoth" : " If you are growing your Pumpkins in rows, space your rows 72 inches apart and sow the seeds 12 inches apart, to a depth of 1 inch. For planting on hills, which helps to maintain higher soil temperature, build hills 3-4 feet in diameter, 8-12 inches tall and 5-8 feet apart.  Sow 5 seeds to a depth of 1 inch, evenly spaced from the peak of the hill and evenly spaced from each other on the hill."
+        },
+        "stopOutside2" : "Get any remaining Fall Pumkpin seedlings or seeds into the ground and then cease any further planting, if you haven't already.",
+        "firstThin2" : "Thin your Fall Pumpkin seedlings. If growing in rows, thin to 48 inches apart. If growing on hills, leave the 3 most hearty seedlings.",
+        "fertilizePlantsFirstTime2" : "Apply a side-dressing of high-nitrogen fertilizer, compost or manure to the root-zones of your Fall Pumpkin plants.",
+        "fertilizePlantsSecondTime2" : "Apply a side-dressing of high-phosphorus fertilizer to the root-zone of your Fall Pumpkin plants.",
+        "startHarvest2" : "If the skins of your Fall Pumpkins have turned deep orange, and the vines have begun to dry, you can begin harvesting by snipping the Pumpkins off of the vine with a pair of garden shears."
+
+    },
+
+    "radish": {
+        "sun" : "full sun to partial shade",
+        "soil" : ", well draining soil",
+        "spacing" : ", and 2 - 3 inches of space per plant, given 12 inches of space between rows",
+        "water" : ", consistent watering",
+        "fertilize" : "",
+        "mulch" : "",
+
+        "directOutside" : {
+            "begin" : "Begin sowing your Radish seeds directly in your garden. Sow into moist, well-draining soil ",
+            "covered" : ", under cover of either a high-tunnel or floating row-covers,",
+            "uncovered" : ",",
+            "remainingBoth" : " and in a part of your garden that receives full sun to partial shade. Space seeds 1-1.5 inches apart, at a depth of 0.5-1 inch, and in rows that are spaced 12 inches apart."
+        },
+        "stopOutside" : "Get any remaining Radish seed into the ground and then cease any further planting, if you haven't already.",
+        "firstThin" : "Thin your Radishes to a spacing of 2-3 inches.",
+        "startHarvest" : "If your Radishes are a desirable size, you can begin harvesting them by simply pulling them up by their stems.",
+
+        "directOutside2" : {
+            "begin" : "Begin sowing your Fall Radish seeds directly in your garden. Sow into moist, well-draining soil ",
+            "covered" : ", under cover of either a high-tunnel or floating row-covers,",
+            "uncovered" : ",",
+            "remainingBoth" : " and in a part of your garden that receives full sun to partial shade. Space seeds 1-1.5 inches apart, at a depth of 0.5-1 inch, and in rows that are spaced 12 inches apart."
+        },
+        "stopOutside2" : "Get any remaining Fall Radish seed into the ground and then cease any further planting, if you haven't already.",
+        "firstThin2" : "Thin your Fall Radishes to a spacing of 2-3 inches.",
+        "startHarvest2" : "If your Fall Radishes are a desirable size, you can begin harvesting them by simply pulling them up by their stems."
+    },
+
+    "spinach": {
+        "sun" : "full sun to light shade",
+        "soil" : ", well draining soil",
+        "spacing" : ", and 4 inches of space per plant, given 12 inches of space between rows",
+        "water" : ", watering every few days",
+        "mulch" : ", a 1 inch layer of mulch applied after seedlings emerge",
+        "fertilize" : ", fertilizer applied to the bed before sowing seeds",
+
+        "fertilizeBed" : "In a part of your garden that receives full sun to light shade, in well-draining soil that you plan to grow your Spinach in, till in several inches of fertilizer and organic compost or aged manure.",
+        "directOutside" : {
+            "begin" : "In the bed that you fertilized for your Spinach, begin sowing seeds directly into rich and fertile soil",
+            "covered" : ", under cover of either high-tunnels or floating row-covers.",
+            "uncovered" : ".",
+            "remainingBoth" : " Sow seeds spaced 1 inch apart, in rows that are 12 inches apart and to a depth of 0.5 inch."
+        },
+        "firstThin" : "Thin your Spinach seedlings to a spacing of 4 inches.2",
+        "firstMulch" : "Apply a 1 inch layer of mulch around your Spinach seedlings.",
+        "stopOutside" : "Get any remaining Spinach seeds into the ground and then cease any further planting, if you haven't already.",
+        "startHarvest" : "If individual leaves of your Spinach plants have reached a desireable size, you can egin harvesting individual leaves, or if the entire head has uniformly reached a height of 6-8 inches, you may begin harvesting the head as a whole by clipping the leaves from their stems several inches above the soil line with scissors. Be sure to keep any infant leaves intact for successive growth.",
+
+        "fertilizeBed2" : "In a part of your garden that receives full sun to light shade, in well-draining soil that you plan to grow your Fall Spinach in, till in several inches of fertilizer and organic compost or aged manure.",
+        "directOutside2" : {
+            "begin" : "In the bed that you fertilized for your Fall Spinach, begin sowing seeds directly into rich, fertile soil",
+            "covered" : ", under cover of either high-tunnels or floating row-covers.",
+            "uncovered" : ".",
+            "remainingBoth" : " Sow seeds spaced 1 inch apart, in rows that are 12 inches apart and to a depth of 0.5 inch."
+        },
+        "firstThin2" : "Thin your Fall Spinach seedlings to a spacing of 4 inches.2",
+        "firstMulch2" : "Apply a 1 inch layer of mulch around your Fall Spinach seedlings.",
+        "stopOutside2" : "Get any remaining Fall Spinach seeds into the ground and then cease any further planting, if you haven't already.",
+        "startHarvest2" : "If individual leaves of your Fall Spinach plants have reached a desireable size, you can egin harvesting individual leaves, or if the entire head has uniformly reached a height of 6-8 inches, you may begin harvesting the head as a whole by clipping the leaves from their stems several inches above the soil line with scissors. Be sure to keep any infant leaves intact for successive growth."
+    },
+
+    "squashsummer": {
+        "sun" : "full sun",
+        "soil" : ", well draining soil",
+        "spacing" : ", and 18 - 46 inches of space per plant, given 72 inches of space between rows",
+        "water" : ", consistent and heavy watering.",
+        "mulch" : "",
+        "fertilize" : "",
+
+        "startInside" : "Begin sowing your Summer Squash seeds indoors, into individual pots, at a depth of 1 inch.",
+        "startHardenOff" : "Begin hardening off your Summer Squash seedlings by placing them in the garden during the day.",
+        "startOutside" : {
+            "begin" : "In a part of your garden that receives full sun, till in several inches of aged manure and compost to a depth of 12 inches into the bed you plan to plant your Summer Squash. After preparing the bed, begin transplanting your seedlings",
+            "covered" : " under cover of either floating row-covers or high-tunnels.",
+            "uncovered" : ".",
+            "remainingBoth" : " If you are planting in rows, set transplants 3 feet apart, in rows that are spaced 72 inches apart. If you are planting on hills, which helps accommodate drainage and soil temperature, build your hills 12 inches high, 4 feet in diameter and 3 feet apart. Set 3 transplants evenly spaced from both the peak of the hill, and from each other. Be sure to water heavily and consistantly until harvest."
+        },
+        "stopOutside" : "Get any remaining Summer Squash seedlings into the ground and then cease any further planting, if you haven't already.",
+        "startHarvest" : "If the fruit of elongated varieties of Summer Squash are at least 6 inches in length and the fruit of patty varieties are at least 4 inches in diameter, you can begin harvesting every other day, by gently twisting the fruit off of the vine with your hands.",
+
+        "startInside2" : "Begin sowing your Fall Summer Squash seeds indoors into individual pots, at a depth of 1 inch.",
+        "startHardenOff2" : "Begin hardening off your Fall Summer Squash seedlings by placing them in the garden during the day.",
+        "startOutside2" : {
+            "begin" : "In a part of your garden that receives full sun, till in several inches of aged manure and compost to a depth of 12 inches into the bed you plan to plant your Fall Summer Squash. After preparing the bed, begin transplanting your seedlings",
+            "covered" : " under cover of either floating row-covers or high-tunnels.",
+            "uncovered" : ".",
+            "remainingBoth" : " If you are planting in rows, set transplants 3 feet apart, in rows that are spaced 72 inches apart. If you are planting on hills, which helps accommodate drainage and soil temperature, build your hills 12 inches high, 4 feet in diameter and 3 feet apart. Set 3 transplants evenly spaced from both the peak of the hill, and from each other. Be sure to water heavily and consistantly until harvest."
+        },
+        "stopOutside2" : "Get any remaining Fall Summer Squash seedlings into the ground and then cease any further planting, if you haven't already.",
+        "startHarvest2" : "If the fruit of elongated varieties of Fall Summer Squash are at least 6 inches in length and the fruit of patty varieties are at least 4 inches in diameter, you can begin harvesting every other day, by gently twisting the fruit off of the vine with your hands."
+    },
+
+    "squashwinter": {
+        "sun" : "full sun",
+        "soil" : ", fertile and compost-rich soil",
+        "spacing" : ", and 36 - 48 inches of space per plant, given 72 inches of space between rows",
+        "water" : ", heavy and consistent watering",
+        "mulch" : "",
+        "fertilize" : ", fertilizer applied across the entire bed prior to planting",
+
+        "startInside" : "Begin sowing your Winter Squash seeds indoors, into individual pots, at a depth of 1 inch.",
+        "startHardenOff" : "Begin hardening off your Winter Squash seedlings by placing them in the garden during the day.",
+        "startOutside" : {
+            "begin" : "In a part of your garden that receives full sun, till in several inches of aged manure and compost to a depth of 12 inches into the bed you plan to plant your Winter Squash. After preparing the bed, begin transplanting your seedlings",
+            "covered" : " under cover of either floating row-covers or high-tunnels.",
+            "uncovered" : ".",
+            "remainingBoth" : " If you are planting in rows, set transplants 36-48 inches apart, in rows that are spaced 72 inches apart. If you are planting on hills, which helps accommodate drainage and soil temperature, build your hills 12 inches high, 4 feet in diameter and 6 feet apart. Set 3 transplants evenly spaced from both the peak of the hill, and from each other. Be sure to water heavily and consistantly until harvest."
+        },
+        "directOutside" : {
+            "begin" : "In a part of your garden that receives full sun, till in several inches of aged manure and compost to a depth of 12 inches into the bed you plan to plant your Winter Squash. After preparing the bed, begin sowing your Winter Squash seeds directly into the bed",
+            "covered" : " under cover of either floating row-covers or high-tunnels.",
+            "uncovered" : ".",
+            "remainingBoth" : " If you are planting in rows, sow seeds 4 inches apart, in rows that are spaced 72 inches apart, and at a depth of 1 inch. If you are planting on hills, which helps accommodate drainage and soil temperature, build your hills 12 inches high, 4 feet in diameter and 6 feet apart. Sow 5 seeds to a depth of 1 inch, evenly spaced from both the peak of the hill, and from each other. Be sure to water heavily and consistantly until harvest."
+        },
+        "firstThin" : "Thin your Winter Squash seedlings to a spacing of 36-48 inches, keeping the most hearty seedlings.",
+        "stopOutside" : "Get any remaining Winter Squash seedlings or seeds into the ground and then cease any further planting, if you haven't already.",
+        "startHarvest" : "If the fruit of elongated varieties of Winter Squash are at least 6 inches in length and the fruit of patty varieties are at least 4 inches in diameter, you can begin harvesting every other day, by gently twisting the fruit off of the vine with your hands.",
+
+        "startInside2" : "Begin sowing your late-season Winter Squash seeds indoors into individual pots, at a depth of 1 inch.",
+        "startHardenOff2" : "Begin hardening off your late-season Winter Squash seedlings by placing them in the garden during the day.",
+        "startOutside2" : {
+            "begin" : "In a part of your garden that receives full sun, till in several inches of aged manure and compost to a depth of 12 inches into the bed you plan to plant your late-season Winter Squash. After preparing the bed, begin transplanting your seedlings",
+            "covered" : " under cover of either floating row-covers or high-tunnels.",
+            "uncovered" : ".",
+            "remainingBoth" : " If you are planting in rows, set transplants 3 feet apart, in rows that are spaced 72 inches apart. If you are planting on hills, which helps accommodate drainage and soil temperature, build your hills 12 inches high, 4 feet in diameter and 3 feet apart. Set 3 transplants evenly spaced from both the peak of the hill, and from each other. Be sure to water heavily and consistantly until harvest."
+        },
+        "directOutside2" : {
+            "begin" : "In a part of your garden that receives full sun, till in several inches of aged manure and compost to a depth of 12 inches into the bed you plan to plant your late-season Winter Squash. After preparing the bed, begin sowing your late-season Winter Squash seeds directly into the bed",
+            "covered" : " under cover of either floating row-covers or high-tunnels.",
+            "uncovered" : ".",
+            "remainingBoth" : " If you are planting in rows, sow seeds 4 inches apart, in rows that are spaced 72 inches apart, and at a depth of 1 inch. If you are planting on hills, which helps accommodate drainage and soil temperature, build your hills 12 inches high, 4 feet in diameter and 6 feet apart. Sow 5 seeds to a depth of 1 inch, evenly spaced from both the peak of the hill, and from each other. Be sure to water heavily and consistantly until harvest."
+        },
+        "firstThin2" : "Thin your Winter Squash seedlings to a spacing of 36-48 inches, keeping the most hearty seedlings.",
+        "stopOutside2" : "Get any remaining late-season Winter Squash seedlings or seeds into the ground and then cease any further planting, if you haven't already.",
+        "startHarvest2" : "If the fruit of elongated varieties of late-season Winter Squash are at least 6 inches in length and the fruit of patty varieties are at least 4 inches in diameter, you can begin harvesting every other day, by gently twisting the fruit off of the vine with your hands."
+    },
+
+    "tomatoes": {
+        "sun" : "full sun",
+        "soil" : "",
+        "spacing" : "",
+        "water" : "",
+        "mulch" : ", a 2 - 3 inch layer of mulch",
+        "fertilize" : "",
+
+        "startInside" : "Begin sowing your Tomato seeds indoors, into seedling trays at a depth of 0.5 inch, and spaced 2 inches apart.",
+        "transplantToLargerContainer" : "Transplant your Tomato seedlings into larger containers, spaced 3-4 inches apart.",
+        "startHardenOff" : "Begin hardening off your Tomato seedlings by placing them in the garden during the day. Also, at this time, in a part of your garden that receives full sun and has well-draining soil, till in several inches of aged manure and compost to a depth of 12 inches, into the bed you plan to plant your Tomatoes.",
+        "startOutside" : {
+            "begin" : "Begin transplanting your Tomato seedlings into the garden bed you prepared",
+            "covered" : ", under cover of either a green-house or high-tunnel.",
+            "uncovered" : ".",
+            "remainingBoth" : " Set transplants 24-36 inches apart in rows spaced 36-48 inches apart. Water Consistently and generously."
+        },
+        "stopOutside" : "Transplant any remaining Tomato seedlings into the ground, and then cease any further planting, if you haven't already. Also at this time, set cages in place around each plant for support, if available.",
+        "firstMulch" : "Apply a 2-3 inch layer of mulch around each of your Tomato plants.",
+        "fertilizePlantsFirstTime" : "Apply a side-dressing of fertilizer to your Tomato plants.",
+        "fertilizePlantsSecondTime" : "Apply another side-dressing of fertilizer to your Tomato plants.",
+        "startHarvest" : "If your tomatoes are fully colored and firm, you can begin harvesting them.",
+
+        "startInside2" : "Begin sowing your late-season Tomato seeds indoors into seedling trays at a depth of 0.5 inch, and spaced 2 inches apart.",
+        "transplantToLargerContainer2" : "Transplant your late-season Tomato seedlings into larger containers, spaced 3-4 inches apart.",
+        "startHardenOff2" : "Begin hardening off your late-season Tomato seedlings by placing them in the garden during the day. Also, at this time, in a part of your garden that receives full sun and has well-draining soil, till in several inches of aged manure and compost to a depth of 12 inches, into the bed you plan to plant your late-season Tomatoes.",
+        "startOutside2" : {
+            "begin" : "Begin transplanting your late-season Tomato seedlings into the garden bed you prepared",
+            "covered" : ", under cover of either a green-house or high-tunnel.",
+            "uncovered" : ".",
+            "remainingBoth" : " Set transplants 24-36 inches apart in rows spaced 36-48 inches apart. Water Consistently and generously."
+        },
+        "stopOutside2" : "Transplant any remaining late-season Tomato seedlings into the ground, and then cease any further planting, if you haven't already. Also at this time, set cages in place around each plant for support, if available.",
+        "firstMulch2" : "Apply a 2-3 inch layer of mulch around each of your late-season Tomato plants.",
+        "fertilizePlantsFirstTime2" : "Apply a side-dressing of fertilizer to your late-season Tomato plants.",
+        "fertilizePlantsSecondTime2" : "Apply another side-dressing of fertilizer to your late-season Tomato plants.",
+        "startHarvest2" : "If your late-season Tomatoes are fully colored and firm, you can begin harvesting them."
+    },
+
+    "tomatillos": {
+        "sun" : "full sun",
+        "soil" : ", moderately rich and well draining soil",
+        "spacing" : ", and 36 inches of space per plant, given 36 - 48 inches of space between rows",
+        "water" : ", consistent watering",
+        "mulch" : ", a 2 - 3 inch layer of mulch applied after transplanting",
+        "fertilize" : ", fertilizer applied across the entire bed prior to transplanting",
+
+        "startInside" : "Begin sowing your Tomatillo seeds indoors, into individual pots.",
+        "startHardenOff" : "Begin hardening off your Tomatillo seedlings by placing them in the garden during the day.",
+        "startOutside" : {
+            "begin" : "In a part of your garden that receives full sun",
+            "covered" : ", and under cover of either a greenhouse or high-tunnel,",
+            "uncovered" : ",",
+            "remainingBoth" : " till in 2-3 inches of organic compost or aged manure into the bed you plan to plant your Tomatillos. Till to a depth of 10-12 inches and then begin transplanting your Tomatillo seedlings into the prepared bed. Set the transplants 36 inches apart, in rows that are spaced 36-48 inches apart. After transplanting, apply a 2-3 inch layer of mulch to help retain water."
+        },
+        "stopOutside" : "Get any remaining Tomatillo seedlings into the ground and then cease any further planting, if you haven't already. Also, at this time, you can place cages around the Tomatillo plants if you have them available.",
+        "startHarvest" : "If the outer skin surrounding the Tomatillo fruit has dried and the fruit is swollen, you can begin harvesting.",
+
+        "startInside2" : "Begin sowing your Fall Tomatillo seeds indoors into individual pots.",
+        "startHardenOff2" : "Begin hardening off your Fall Tomatillo seedlings by placing them in the garden during the day.",
+        "startOutside2" : {
+            "begin" : "In a part of your garden that receives full sun",
+            "covered" : ", and under cover of either a greenhouse or high-tunnel,",
+            "uncovered" : ",",
+            "remainingBoth" : " till in 2-3 inches of organic compost or aged manure into the bed you plan to plant your Fall Tomatillos. Till to a depth of 10-12 inches and then begin transplanting your Fall Tomatillo seedlings into the prepared bed. Set the transplants 36 inches apart, in rows that are spaced 36-48 inches apart. After transplanting, apply a 2-3 inch layer of mulch to help retain water."
+        },
+        "stopOutside2" : "Get any remaining Fall Tomatillo seedlings into the ground and then cease any further planting, if you haven't already. Also, at this time, you can place cages around the Tomatillo plants if you have them available.",
+        "startHarvest2" : "If the outer skin surrounding the Fall Tomatillo fruit has dried and the fruit is swollen, you can begin harvesting."
+    },
+
+    "turnips": {
+        "sun" : "full sun",
+        "soil" : ", loose, fertile and well draining soil",
+        "spacing" : ", and 2 - 3 inches of space per plant, given 24 inches of space between rows",
+        "water" : ", consistent watering",
+        "mulch" : "",
+        "fertilize" : ", fertilizer applied across the entire bed prior to planting",
+
+        "directOutside" : {
+            "begin" : "In a part of your garden that receives full sun, in well-draining soil",
+            "covered" : ", and under cover of either a high-tunnel or floating row-cover,",
+            "uncovered" : ",",
+            "remainingBoth" : " till in 3-4 inches of compost to a depth of 12 inches in the bed you plan to plant your Turnips. Begin sowing Turnip seeds directly into the prepared bed at a depth of 0.5 inch, spaced 2-3 inches apart, in rows that are spaced 24 inches apart."
+        },
+        "stopOutside" : "Get any remaining Turnip seeds into the ground and then cease any further planting, if you have not already.",
+        "firstMulch" : "Apply a 2 inch layer of mulch around your Turnip seedlings.",
+        "startHarvest" : "If your Turnips have reached a desireable size, you can begin harvesting them as needed, by loosening the surrounding soil with a pitchfork or shovel and pull them up by the stalk.",
+
+        "directOutside2" : {
+            "begin" : "In a part of your garden that receives full sun, in well-draining soil",
+            "covered" : ", and under cover of either a high-tunnel or floating row-cover,",
+            "uncovered" : ",",
+            "remainingBoth" : " till in 3-4 inches of compost to a depth of 12 inches in the bed you plan to plant your Fall Turnips. Begin sowing Fall Turnip seeds directly into the prepared bed at a depth of 0.5 inch, spaced 2-3 inches apart, in rows that are spaced 24 inches apart."
+        },
+        "stopOutside2" : "Get any remaining Fall Turnip seeds into the ground and then cease any further planting, if you have not already.",
+        "firstMulch2" : "Apply a 2 inch layer of mulch around your Fall Turnip seedlings.",
+        "startHarvest2" : "If your Fall Turnips have reached a desireable size, you can begin harvesting them as needed, by loosening the surrounding soil with a pitchfork or shovel and pull them up by the stalk."
+    },
+
+    "watermelons": {
+        "sun" : "full sun",
+        "soil" : ", compost-rich and loamy soil",
+        "spacing" : ", and 6 feet of space per plant, given 6 feet of space between rows",
+        "water" : ", consistent and heavy watering",
+        "mulch" : "",
+        "fertilize" : "",
+
+        "startInside" : "Begin sowing your Watermelon seeds indoors, into 3-4 inch wide individual peat pots. Sow 3 seeds per pot, each at a depth of 0.5 inch.",
+        "firstThin" : "Thin your Watermelon seedlings to the most hearty single seedling in each seedling pot. Also, at this time, begin hardening off your seedlings by placing them in the garden during daylight hours.",
+        "startOutside" : {
+            "begin" : "In a well-draining part of your garden that receives full sun",
+            "covered" : ", and under cover of floating row-covers,",
+            "uncovered" : ",",
+            "remainingBoth" : " till in several inches of aged manure and compost to a depth of 12 inches into the bed you plan to grow your Watermelons. Begin transplanting your Watermelon seedlings into the prepared bed. If you are growing on hills, which facilitates better drainage and heat retention, build the hills 12 inches tall, 5 feet in diameter and 6 feet apart from one another. Set 3 seedlings half-way into the sides of the hill, equally spaced from the peak and from each other. If planting in rows, set transplants 6 feet apart in rows that are 6 feet apart. After setting transplants, apply a 2-3 inch layer of mulch across the entire bed."
+        },
+        "directOutside" : {
+            "begin" : "In a well-draining part of your garden that receives full sun",
+            "covered" : ", and under cover of floating row-covers,",
+            "uncovered" : ",",
+            "remainingBoth" : " till in several inches of aged manure and compost to a depth of 12 inches into the bed you plan to grow your Watermelons. Begin sowing your Watermelon seeds into the prepared bed. If you are growing on hills, which facilitates better drainage and heat retention, build the hills 12 inches tall, 5 feet in diameter and 6 feet apart from one another. Sow 5 seeds half-way into the sides of the hill, equally spaced from the peak and from each other, and each to a depth of 0.5 inch. If planting in rows, set transplants 6 feet apart in rows that are 6 feet apart, and each to depth of 0.5 inch."
+        },
+        "stopOutside" : "Get any remaining Watermelon seeds into the ground or seedlings transplanted, and then cease any further planting, if you have not already.",
+        "secondThin" : "Thin your Watermelon seedlings to a spacing of 6 feet apart. Also, at this time, apply a 2-3 inch layer of mulch across the entire bed.",
+        "startHarvest" : "If your Watermelons sounds hollow and the bottom of the melon is a cream color, you can begin harvesting them by twisting off the fruit from the vine with your hands.",
+
+        "startInside2" : "Begin sowing your Fall Watermelon seeds indoors into 3-4 inch wide individual peat pots. Sow 3 seeds per pot, each at a depth of 0.5 inch.",
+        "firstThin2" : "Thin your Fall Watermelon seedlings to the most hearty single seedling in each seedling pot. Also, at this time, begin hardening off your seedlings by placing them in the garden during daylight hours.",
+        "startOutside2" : {
+            "begin" : "In a well-draining part of your garden that receives full sun",
+            "covered" : ", and under cover of floating row-covers,",
+            "uncovered" : ",",
+            "remainingBoth" : " till in several inches of aged manure and compost to a depth of 12 inches into the bed you plan to grow your Fall Watermelons. Begin transplanting your Watermelon seedlings into the prepared bed. If you are growing on hills, which facilitates better drainage and heat retention, build the hills 12 inches tall, 5 feet in diameter and 6 feet apart from one another. Set 3 seedlings half-way into the sides of the hill, equally spaced from the peak and from each other. If planting in rows, set transplants 6 feet apart in rows that are 6 feet apart. After setting transplants, apply a 2-3 inch layer of mulch across the entire bed."
+        },
+        "directOutside2" : {
+            "begin" : "In a well-draining part of your garden that receives full sun",
+            "covered" : ", and under cover of floating row-covers,",
+            "uncovered" : ",",
+            "remainingBoth" : " till in several inches of aged manure and compost to a depth of 12 inches into the bed you plan to grow your Fall Watermelons. Begin sowing your Fall Watermelon seeds into the prepared bed. If you are growing on hills, which facilitates better drainage and heat retention, build the hills 12 inches tall, 5 feet in diameter and 6 feet apart from one another. Sow 5 seeds half-way into the sides of the hill, equally spaced from the peak and from each other, and each to a depth of 0.5 inch. If planting in rows, set transplants 6 feet apart in rows that are 6 feet apart, and each to depth of 0.5 inch."
+        },
+        "stopOutside2" : "Get any remaining Fall Watermelon seeds into the ground or seedlings transplanted, and then cease any further planting, if you have not already.",
+        "secondThin2" : "Thin your Fall Watermelon seedlings to a spacing of 6 feet apart. Also, at this time, apply a 2-3 inch layer of mulch across the entire bed.",
+        "startHarvest2" : "If your Fall Watermelons sounds hollow and the bottom of the melon is a cream color, you can begin harvesting them by twisting off the fruit from the vine with your hands."
+
+    }
+}
+

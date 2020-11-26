@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <FrameLayout
+        android:id="@+id/learnMoreCal_base_frameLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <ImageView
+            android:id="@+id/learnMoreCal_mainImg"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="centerCrop"/>
+        <!--<FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/background_standard"/>-->
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#80000000" />
+    </FrameLayout>
+
+    <android.support.v7.widget.Toolbar
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:id="@+id/learnMoreActivityCal_Toolbar"
+        android:theme="@style/HeaderBar"
+        app:layout_constraintTop_toTopOf="parent"
+        android:elevation="4dp"
+        >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+            <TextView
+                android:id="@+id/learnMoreVarietyCal_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:textColor="#ffffff"
+                app:layout_constraintLeft_toLeftOf="parent"
+                app:layout_constraintRight_toRightOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                android:layout_gravity="left"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/learnMoreActivityTitle_ext"
+                android:layout_marginLeft="6dp"
+                android:layout_marginStart="6dp"
+                android:text="@string/calendar"
+                android:layout_gravity="start"
+                android:paddingTop="2dp"
+                android:textColor="#ffffff"
+                android:textSize="16sp"/>
+            <!--<TextView
+                android:id="@+id/learnMoreVarietyCal_botanicalName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="16dp"
+                android:layout_marginStart="16dp"
+                android:textStyle="italic"
+                android:textSize="12sp"
+                android:textColor="#ffffff"
+                android:layout_gravity="left"
+                android:gravity="center_vertical"
+                android:alpha="1"
+                />-->
+        </LinearLayout>
+    </android.support.v7.widget.Toolbar>
+
+    <!--this recyclerview has been migrated over from the learnMore activity-->
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/learnMoreVarietyCal_recyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="32dp"
+        android:layout_marginTop="?attr/actionBarSize"
+        tools:listitem="@layout/learn_more_variety_listitem" />
+
+</android.support.constraint.ConstraintLayout>

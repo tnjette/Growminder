@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="?android:attr/selectableItemBackground"
+    android:clickable="true"
+    android:focusable="true"
+    android:orientation="vertical"
+    android:paddingBottom="1dp"
+    android:paddingLeft="0dp"
+    android:paddingRight="0dp"
+    android:paddingTop="1dp"
+    >
+    <ImageView
+        android:id="@+id/variety_image"
+        android:layout_width="match_parent"
+        android:layout_height="130dp"
+        android:alpha="1"
+        />
+    <LinearLayout
+        android:id="@+id/variety_clickable"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/rounded_corner_notification_clickable"
+        android:orientation="vertical"
+        android:layout_marginStart="32dp"
+        android:layout_marginLeft="32dp"
+        android:paddingLeft="8dp"
+        android:paddingStart="8dp"
+        android:paddingEnd="8dp"
+        android:padding="8dp"
+        android:paddingTop="2dp"
+        android:paddingBottom="2dp"
+        android:gravity="center_vertical"
+        android:layout_centerVertical="true"
+        >
+        <TextView
+            android:id="@+id/variety_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:layout_marginStart="16dp"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:textColor="#ffffff"
+            />
+        <TextView
+            android:id="@+id/variety_description"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:layout_marginStart="16dp"
+            android:textSize="12sp"
+            android:textStyle="italic"
+            android:textColor="#ffffff"/>
+    </LinearLayout>
+    <!--<TextView
+        android:id="@+id/variety_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="45dp"
+        android:layout_marginStart="45dp"
+        android:layout_alignParentTop="true"
+        android:textSize="20sp"
+        android:layout_marginTop="35dp"
+        android:textStyle="bold"
+        android:background="@drawable/rounded_corner_button_save_location"
+        />
+    <TextView
+        android:id="@+id/variety_description"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="45dp"
+        android:layout_marginStart="45dp"
+        android:layout_below="@id/variety_name" />
+-->
+    <android.support.v7.widget.SwitchCompat
+        android:id="@+id/variety_switch"
+        style="@style/SwitchCompatStyle"
+        android:layout_width="61dp"
+        android:layout_height="31dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="45dp"
+        android:layout_marginRight="32dp"
+        android:layout_marginEnd="32dp"
+        android:contentDescription="@string/choose"
+        android:background="@drawable/rounded_corner_button_save_location"
+        android:layout_centerVertical="true"
+        android:thumb="@drawable/switch_custom_selector"
+        app:track="@drawable/switch_custom_track"
+        />
+
+
+</RelativeLayout>
+
+
+
+
+
+
+
+
+
+<!--OLD-->
+<!--
+this renders the single row in the recyclerview for the available varieties menu of the addVarietiesActivity class
+-->
+<!--<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="16dp">
+
+    <android.support.v7.widget.CardView
+        xmlns:card_view="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="8dp">
+
+            <ImageView
+                android:id="@+id/variety_image"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:scaleType="fitXY"
+                android:layout_gravity="center_horizontal"/>
+
+            <TextView
+                android:id="@+id/variety_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="bottom"
+                android:layout_marginTop="8dp"
+                android:layout_marginBottom="8dp"
+                android:fontFamily="cursive"
+                style="@style/TextAppearance.AppCompat.Headline"
+                tools:text="Variety"/>
+
+            <TextView
+                android:id="@+id/variety_description"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:layout_marginBottom="8dp"
+                android:fontFamily="serif"
+                style="@style/TextAppearance.AppCompat.Body1"
+                tools:text="something green"/>
+
+            <Button
+                android:id="@+id/variety_read_more"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:layout_marginBottom="8dp"
+                android:textColor="@color/colorPrimary"
+                android:text="learn more"/>
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+</LinearLayout>-->
+

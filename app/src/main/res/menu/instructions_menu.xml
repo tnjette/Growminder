@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/currentVarieties_instructions"
+        android:title="@string/yourVarietiesMenuOption"
+        ></item>
+    <item android:id="@+id/setLocationMenu_instructions"
+        android:title="@string/setLocationMenuOption" >
+    </item>
+    <item android:id="@+id/setVarietiesMenu_instructions"
+        android:title="@string/setVarietiesMenuOption" >
+    </item>
+    <item android:id="@+id/mostRecentNotification_instructions"
+        android:title="@string/mostRecentNotificationOption" >
+    </item>
+</menu>

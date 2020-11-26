@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/learnMoreActivityCL">
+
+    <FrameLayout
+        android:id="@+id/frameLayout2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/learnMore_mainImg"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="centerCrop"/>
+
+        <!--<FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/background_standard"/>-->
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#40000000" />
+    </FrameLayout>
+
+    <!--<LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">-->
+        <android.support.v7.widget.Toolbar
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:id="@+id/learnMoreActivityToolbar"
+            android:theme="@style/HeaderBar"
+            app:layout_constraintTop_toTopOf="parent"
+            android:elevation="4dp"
+            >
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+                <TextView
+                    android:id="@+id/learnMoreVarietytitle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textStyle="bold"
+                    android:textSize="20sp"
+                    android:textColor="#ffffff"
+                    app:layout_constraintLeft_toLeftOf="parent"
+                    app:layout_constraintRight_toRightOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    android:layout_gravity="left"
+                    />
+
+                <TextView
+                    android:id="@+id/learnMoreVarietyBotanicalName"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginStart="16dp"
+                    android:textStyle="italic"
+                    android:textSize="12sp"
+                    android:textColor="#ffffff"
+                    android:layout_gravity="left"
+                    android:gravity="center_vertical"
+                    />
+            </LinearLayout>
+        </android.support.v7.widget.Toolbar>
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="?attr/actionBarSize"
+            app:layout_constraintTop_toBottomOf="@id/learnMoreActivityToolbar">
+            <LinearLayout
+                android:id="@+id/learnMoreDescriptionAndDetailsBlock"
+                android:orientation="vertical"
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:scrollbars="vertical"
+                >
+                <!--<LinearLayout
+                    android:id="@+id/learnMoreDescriptionFrame"
+                    android:layout_height="wrap_content"
+                    android:layout_width="match_parent"
+                    >-->
+                <TextView
+                    android:id="@+id/learnMoreVarietyDescription"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:paddingHorizontal="32dp"
+                    android:paddingVertical="16dp"
+                    android:textSize="14sp"
+                    android:textColor="#ffffff"
+                    android:background="@drawable/rounded_corner_notification_detail"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginRight="16dp"
+                    />
+
+                <LinearLayout
+                    android:id="@+id/learnMoreVarietyCalendar_iconMenu"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:layout_marginTop="16dp"
+                    android:layout_marginBottom="24dp"
+                    android:background="@drawable/rounded_corner_notification_detail"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginRight="16dp"
+                    android:padding="16dp"
+                    >
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/sunDetailFrame"
+                        android:orientation="horizontal"
+                        android:layout_marginBottom="8dp">
+
+                        <!--sun icon here-->
+                        <ImageView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/sunIcon"
+                            android:paddingLeft="16dp"
+                            android:paddingStart="16dp"
+                            android:paddingEnd="16dp"
+                            android:paddingRight="16dp"
+                            android:layout_gravity="center_vertical"
+                            />
+
+                        <!--<TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/sunDetail"
+                            android:text="Sun detail"
+                            android:textColor="#FFFFFF"
+                            />-->
+
+                        <TextView
+                            android:id="@+id/sunDetail_desc"
+                            android:layout_height="wrap_content"
+                            android:layout_width="wrap_content"
+                            android:textColor="#ffffff"
+                            android:layout_gravity="center_vertical"
+                            />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/waterDetailFrame"
+                        android:orientation="horizontal"
+                        android:layout_marginBottom="8dp">
+
+
+                        <!--water icon here-->
+                        <ImageView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/waterIcon"
+                            android:paddingLeft="16dp"
+                            android:paddingStart="16dp"
+                            android:paddingEnd="16dp"
+                            android:paddingRight="16dp"
+                            android:layout_gravity="center_vertical"
+
+                            />
+
+                        <!--<TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/waterDetail"
+                            android:text="Water detail"
+                            android:textColor="#FFFFFF"
+                            />-->
+                        <TextView
+                            android:id="@+id/waterDetail_desc"
+                            android:layout_height="wrap_content"
+                            android:layout_width="wrap_content"
+                            android:textColor="#ffffff"
+                            android:layout_gravity="center_vertical"
+                            />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/soilDetailFrame"
+                        android:orientation="horizontal"
+                        android:layout_marginBottom="8dp">
+
+
+                        <!--soil icon here-->
+                        <ImageView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/soilIcon"
+                            android:paddingLeft="16dp"
+                            android:paddingStart="16dp"
+                            android:paddingEnd="16dp"
+                            android:paddingRight="16dp"
+                            android:layout_gravity="center_vertical"
+
+                            />
+
+                        <!--<TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/soilDetail"
+                            android:text="Soil detail"
+                            android:textColor="#FFFFFF"
+                            />-->
+                        <TextView
+                            android:id="@+id/soilDetail_desc"
+                            android:layout_height="wrap_content"
+                            android:layout_width="wrap_content"
+                            android:textColor="#ffffff"
+                            android:layout_gravity="center_vertical"
+                            />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/spacingDetailFrame"
+                        android:orientation="horizontal"
+                        android:layout_marginBottom="8dp">
+
+
+                        <!--spacing icon here-->
+                        <ImageView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/spacingIcon"
+                            android:paddingLeft="16dp"
+                            android:paddingStart="16dp"
+                            android:paddingEnd="16dp"
+                            android:paddingRight="16dp"
+                            android:layout_gravity="center_vertical"
+
+                            />
+
+                        <!--<TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/spacingDetail"
+                            android:text="spacing detail"
+                            android:textColor="#FFFFFF"
+                            />-->
+                        <TextView
+                            android:id="@+id/spacingDetail_desc"
+                            android:layout_height="wrap_content"
+                            android:layout_width="wrap_content"
+                            android:textColor="#ffffff"
+                            android:layout_gravity="center_vertical"
+                            />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/mulchDetailFrame"
+                        android:orientation="horizontal"
+                        android:layout_marginBottom="8dp">
+                        <!--mulch icon here-->
+
+                        <ImageView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/mulchIcon"
+                            android:paddingLeft="16dp"
+                            android:paddingStart="16dp"
+                            android:paddingEnd="16dp"
+                            android:paddingRight="16dp"
+                            android:layout_gravity="center_vertical"
+
+                            />
+                        <!--<TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/mulchDetail"
+                            android:text="mulch detail"
+                            android:textColor="#FFFFFF"
+                            />-->
+                        <TextView
+                            android:id="@+id/mulchDetail_desc"
+                            android:layout_height="wrap_content"
+                            android:layout_width="wrap_content"
+                            android:textColor="#ffffff"
+                            android:layout_gravity="center_vertical"
+                            />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/fertilizerDetailFrame"
+                        android:orientation="horizontal"
+                        android:layout_marginBottom="8dp">
+                        <!--fertilizer icon here-->
+
+                        <ImageView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/fertilizerIcon"
+                            android:paddingLeft="16dp"
+                            android:paddingStart="16dp"
+                            android:paddingEnd="16dp"
+                            android:paddingRight="16dp"
+                            android:layout_gravity="center_vertical"
+
+                            />
+                        <!--<TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/fertilizerDetail"
+                            android:text="fertilizer detail"
+                            android:textColor="#FFFFFF"
+                            />-->
+                        <TextView
+                            android:id="@+id/fertilizerDetail_desc"
+                            android:layout_height="wrap_content"
+                            android:layout_width="wrap_content"
+                            android:textColor="#ffffff"
+                            android:layout_gravity="center_vertical"
+                            />
+                    </LinearLayout>
+
+                    <!--<TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/goToLearnMoreVarietyCalendarBtn"
+                        android:background="@drawable/rounded_corner_button"
+                        android:textColor="#ffffff"
+                        android:textSize="14sp"
+                        android:paddingTop = "8dp"
+                        android:paddingBottom = "8dp"
+                        android:paddingStart="16dp"
+                        android:paddingEnd="16dp"
+                        android:paddingLeft="16dp"
+                        android:paddingRight="16dp"
+                        android:layout_marginTop="16dp"
+                        android:layout_marginLeft="16dp"
+
+                        />-->
+
+
+
+                    <!--</LinearLayout>-->
+
+
+                    <!--THIS RECYCLERVIEW IS NOW OBSOLETE HERE...it will be placed in the learnMoreAboutXVariety_Calendar activity
+                    <android.support.v7.widget.RecyclerView
+                        android:id="@+id/learnMoreVarietyCalendarOfEventsRecyclerView"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_marginBottom="32dp"
+                        android:layout_marginTop="16dp"
+                        tools:listitem="@layout/learn_more_variety_listitem" />-->
+                </LinearLayout>
+
+
+                <!--more here...-->
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/goToLearnMoreVarietyCalendarBtn"
+                    android:background="@drawable/rounded_corner_notification_clickable"
+                    android:textColor="#ffffff"
+                    android:textSize="14sp"
+                    android:paddingTop = "8dp"
+                    android:paddingBottom = "8dp"
+                    android:paddingStart="16dp"
+                    android:paddingEnd="16dp"
+                    android:paddingLeft="16dp"
+                    android:paddingRight="16dp"
+                    android:layout_marginTop="8dp"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginStart="16dp"
+
+                    />
+
+            </LinearLayout>
+        </ScrollView>
+
+
+    <!--</LinearLayout>-->
+
+</android.support.constraint.ConstraintLayout>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:id = "@+id/dashboard_activity_background_baseline"
+        android:src="@drawable/kale"/>
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/dashboard_background_filter_primary"
+        android:background="@color/background_standard"
+        />
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/dashboard_background_filter_secondary"
+        android:background="#40000000"
+        />
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/custom_dashboard_toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:elevation="4dp"
+        app:popupTheme="@style/dashboardToolbarTheme">
+        <!--android:background="@drawable/broccoli_background"
+        >-->
+
+        <LinearLayout
+            android:id="@+id/dashboard_toolbar_module"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/dashboard_activity_title"
+                android:textStyle="bold"
+                android:textColor="#ffffff"
+                android:textSize="20sp"
+                android:layout_marginTop="5dp"
+                app:layout_constraintTop_toTopOf="parent"
+                android:includeFontPadding="false"
+
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:id="@+id/dashboard_activity_subtitle"
+                android:textColor="#ffffff"
+                android:textSize="16sp"
+                android:includeFontPadding="false"
+
+                />
+        </LinearLayout>
+    </android.support.v7.widget.Toolbar>
+
+
+    <FrameLayout
+        android:layout_width="wrap_content"
+        android:layout_height="100dp"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        android:orientation="vertical"
+        >
+        <TextView
+            android:id="@+id/dashboard_nothingToSeeHere_msg_top"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:textColor="#ffffff"
+            android:textStyle = "bold"
+            android:layout_gravity="center_horizontal"
+            />
+
+        <Button
+            android:id="@+id/dashboard_nothingToSeeHere_msg_bottom"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="12sp"
+            android:textColor="#ffffff"
+            android:background="@drawable/rounded_corner_button"
+            android:paddingHorizontal="18dp"
+            android:layout_marginTop="60dp"
+            android:textAllCaps="false"
+            />
+    </FrameLayout>
+
+
+
+    <FrameLayout
+        android:id="@+id/dashboard_recycler_view_module"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@id/custom_dashboard_toolbar"
+        >
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/dashboard_recycler_view"
+            android:scrollbars="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            tools:listitem="@layout/notification_item"
+            android:paddingBottom="1dp"
+            android:background="#ffffff"
+            android:layout_marginBottom="56dp"
+        />
+
+    </FrameLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/dashboard_background_fader"
+        android:background="#00000000"
+        />
+</android.support.constraint.ConstraintLayout>

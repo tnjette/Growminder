@@ -1,0 +1,96 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+
+        <item name="colorPrimary">@color/med_dark_green</item>
+        <item name="colorPrimaryDark">@color/darkestGreen</item>
+        <item name="colorAccent">#500000</item>
+    </style>
+    <style name="SwitchCompatStyle">
+        <item name="colorControlActivated">@color/colorAccent</item>
+    </style>
+    <style name = "newAppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/med_dark_green</item>
+        <item name="colorPrimaryDark">@color/darkestGreen</item>
+        <!--<item name="colorAccent">@color/med_light_green</item>-->
+        <item name="colorAccent">#500000</item> <!--this connects to the color of the variety switch when activated-->
+    </style>
+
+        <!-- the theme applied to the application or activity -->
+    <style name="addLocationCustomActionBarTheme"
+        parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowActionBarOverlay">true</item>
+    </style>
+
+
+
+    <style name="dashboardCustomActionBarTheme"
+        parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowActionBarOverlay">true</item>
+        <!--<item name="android:itemBackground">@drawable/custom_menu_background</item>
+        <item name="android:actionMenuTextColor">#ffffff</item>-->
+        <item name ="colorControlNormal">#ffffff</item>
+    </style>
+
+
+    <style name ="dashboardToolbarTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:colorBackground">#00000000</item><!--you def want this to be transparent, this is the base layer of the object-->
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:itemPadding">8dp</item>
+
+        <!--after so much trial and error, this is what finally worked to customize the menu layout, rather than the menu and menu items-->
+        <item name="android:dropDownListViewStyle">@style/MyPopupMenu</item>
+
+    </style>
+
+    <style name = "MyPopupMenu">
+        <item name="android:background">@drawable/rounded_corner_menu</item>
+    </style>
+
+    <style name = "instructionsTheme"
+        parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowActionBarOverlay">true</item>
+    </style>
+
+
+    <style name="eventCalendarActivityCustomActionBarTheme"
+        parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowActionBarOverlay">true</item>
+    </style>
+
+    <style name="addVarietiesCustomActionBarTheme"
+        parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowActionBarOverlay">true</item>
+    </style>
+    <style name="upcomingNotificationsCustomActionBarTheme"
+        parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowActionBarOverlay">true</item>
+    </style>
+    <style name = "learnMoreActivityTheme"
+        parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowActionBarOverlay">true</item>
+    </style>
+
+    <!--<style name="actionBarStyle" parent="@style/Widget.AppCompat.Light.ActionBar.Solid">
+        <item name="android:background">@color/actionbar</item>
+        <item name="background">@color/actionbar</item>
+    </style>THIS IS NOT USED -->
+
+
+
+    <style name="HeaderBar">
+        <!--<item name="android:background">#303F9F</item>-->
+        <item name ="colorControlNormal">#ffffff</item>"
+    </style>
+
+    <style name="menuStyle">
+        <!--<item name="android:background">#303F9F</item>-->
+        <item name ="android:textColor">#ffffff</item>
+        <item name ="android:background">@drawable/custom_menu_background</item>
+    </style>
+
+
+
+
+</resources>

@@ -1,0 +1,134 @@
+<resources>
+    <!--<string name="app_name">GrowmindV0.5</string> THIS IS DEPRECATED-->
+    <string name="app_name">Growminder</string>
+    <string name="main_activity_title">Growminder</string>
+
+    <!--add location activity strings-->
+    <string name="edit_location">Enter your zipcode</string>
+
+    <!--button strings-->
+    <string name="button_save">Save</string>
+
+    <!--add varieties activity strings-->
+    <string name = "select_varieties_user_prompt">Select the plant varieties you want to grow</string>
+
+    <!--instructions strings-->
+    <string name = "instructionsWelcomeMsg">Welcome to Growminder, an app that helps you keep track of the growing season in your garden. To begin receiving notifications about the growing season for specific plant varieties follow these steps.</string>
+    <!--***DEPRECATED***<string name = "instructions_step_1">Step 1: \n\n Enter your 5-digit US zipcode in \"Add your location\", accessed in the menu in the upper right-hand corner of your screen.</string>-->
+    <!--***DEPRECATED***<string name = "instructions_step_2">Step 2: \n\n Select which plant varieties you would like to receive notifications for in the \"Select your varieties\" menu.</string>-->
+    <!--***DEPRECATED***<string name ="instructions_step_3">Step 3: \n\n Wait for the notifications to come to your device. In the mean time, explore the app, and learn more about the growing season for each of your varieties.</string>-->
+    <string name ="instructions_wellwish">Happy gardening.</string>
+    <string name = "beginbuttonLabel">Begin</string>
+    <string name = "step1_title">Step 1:</string>
+    <string name ="step2_title">Step 2:</string>
+    <string name ="step3_title">Step 3:</string>
+    <string name = "step1_instructions">Enter your 5-digit US zipcode in \"Set your location\", accessed in the menu in the upper right-hand corner of your screen.</string>
+    <string name = "step2_instructions">Select which plant varieties you would like to receive notifications for in the \"Set your varieties\" menu.</string>
+    <string name = "step3_instructions">Wait for the notifications to come to your device. In the mean time, explore the app, and learn more about the growing season for each of your varieties.</string>
+
+    <!--dashboard activity strings-->
+    <string name="nothing_to_see_here">Nothing to see here.</string>
+    <string name = "nothing_to_see_here_user_has_no_varieties">You haven\'t saved any varieties yet.</string>
+    <string name = "nothing_to_see_here_user_has_no_location">You haven\'t saved your location and any varieties yet.</string>
+    <string name="dashboard_title_has_notifications">Most recent notifications</string>
+    <string name="dashboard_subtitle_has_notifications">Sent %1$s</string>
+    <string name="dashboard_UserLocation_Left">In your location</string>
+    <string name ="dashboard_UserLocation_Right">, this is your next series of notifications scheduled for </string>
+    <string name ="dashboard_user_has_no_location">You have not set your location yet. To proceed, click on the "Add location" tab found in the upper, right-hand menu of your application.</string>
+    <string name ="dashboard_user_has_no_varieties">You have not selected any plant varieties for which to begin receiving notifications. To proceed,
+        click on the "Add varieties" tab found in the upper, right-hand menu of your application.</string>
+        <!--<string name ="dashboard_UserLocation_Right">&#8230;these are your upcoming notifications</string>-->
+
+    <!--action bar titles-->
+    <string name ="add_location_action_bar_title">Add your location</string>
+    <string name ="update_location_action_bar_title">Update your location</string>
+    <string name ="update_varieties">Update your plant varieties</string>
+    <string name = "add_varieties_action_bar_title">Choose your plant varieties</string>
+    <string name = "dashboard_actionbar_title">Upcoming notifications</string>
+    <string name = "instructions_actionbar_title">Instructions</string>
+    <string name = "current_notification_actionbar_title">Your most recent notification</string>
+
+    <!--content descriptions-->
+    <string name = "choose">Choose</string>
+    <string name = "save">Save</string>
+
+    <!--current notifications strings-->
+    <string name = "currentNotificationTitle">Your most recent notifications, sent on </string>
+
+    <!--view entire variety calendar button strings -->
+    <string name="view_entire_cal_button_string">%1$s calendar</string>
+
+    <!--view varietydetails(learnmoreaboutvarieyX..) string -->
+    <string name="view_variety_details">%1$s details</string>
+
+    <!--Add variety activity user notification string if user has a location in the database-->
+    <string name ="add_varieties_user_notice_has_location">Your location is currently set to zone %1$s, where the following plant varieties grow best:</string>
+    <string name ="add_varieties_user_has_no_location">"Sorry, but you don't have a location set yet. Please set your location to proceed."</string>
+
+    <string name = "upcoming_notifications_title">Upcoming notifications</string>
+    <string name = "upcoming_notifications_subtitle">Scheduled for %1$s</string>
+
+    <!--CurrentVarietiesTitle-->
+    <string name="currentVarietiesTitle">Current varieties</string>
+
+    <!--menu options strings-->
+    <string name = "yourVarietiesMenuOption">Your varieties</string>
+    <string name = "setLocationMenuOption">Set your Location</string>
+    <string name = "setVarietiesMenuOption">Set your varieties</string>
+    <string name = "mostRecentNotificationOption">Upcoming Notifications</string>
+    <string name = "returnToInstructionsOption">Instructions</string>
+
+    <!--Notification string resources-->
+    <string name = "notification_channel_id">Growminder.V0.5.notification_channel</string>
+    <string name = "channel_name">growminder_notification_channel</string>
+    <string name = "channel_description">This is the notification channel for the Growminder Application</string>
+
+    <!--Month string -->
+    <string name = "january">January</string>
+    <string name = "february">February</string>
+    <string name = "march">March</string>
+    <string name = "april">April</string>
+    <string name = "may">May</string>
+    <string name = "june">June</string>
+    <string name = "july">July</string>
+    <string name = "august">August</string>
+    <string name = "september">September</string>
+    <string name = "october">October</string>
+    <string name = "november">November</string>
+    <string name = "december">December</string>
+
+    <!--cycle differentiator-->
+    <string name = "fall_cycle">Fall cycle</string>
+
+    <!--tense differentiator-->
+    <string name = "past_began">Phase began</string>
+    <string name = "past_ended">Phase ended</string>
+    <string name = "present_began">Phase began</string>
+    <string name = "present_ends">Phase ends</string>
+    <string name = "future_begins">Phase begins</string>
+    <string name = "future_ends">Phase ends</string>
+
+    <string name = "current_phase">Currently in %1$s phase</string>
+
+    <!--error messages-->
+    <string name ="errorMsg_entryNotFound">Your zipcode could not be found in our database, please try again in case there was a mistake.</string>
+
+    <string name="calendar">Calendar</string>
+
+    <string name = "growing_cycle_has_not_begun">Growing cycle has not begun</string>
+    <string name = "growing_cycle_has_passed">Growing cycle has passed</string>
+
+    <string name = "return_button">Back</string>
+
+    <string name = "expandString">...MORE</string>
+
+    <!--select all + deselect all button (add varieties activity)-->
+    <string name ="select_all_button">Select All</string>
+    <string name ="deselect_all_button">Deselect All</string>
+
+    <string name = "immediateNotificationBody_beginning">The planting cycle for </string>
+    <string name = "immediateNotificationBody_end_month"> has not yet begun in your zone. It will begin later this month.</string>
+    <string name = "immediateNotificationBody_end_future"> has not yet begun in your zone. It will begin in </string>
+    <string name = "has_not_begun">HAS NOT BEGUN</string>
+
+</resources>

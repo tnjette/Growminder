@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/spinach"
+            android:scaleType="centerCrop"
+            />
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/background_standard"/>
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#40000000"/>
+    </FrameLayout>
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/currentVarietiesToolbar"
+        android:layout_height="?attr/actionBarSize"
+        android:layout_width="match_parent"
+        >
+        <TextView
+            android:id="@+id/currentVarietiesTitle"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textColor="#ffffff"
+            />
+    </android.support.v7.widget.Toolbar>
+
+    <FrameLayout
+        android:layout_width="wrap_content"
+        android:layout_height="100dp"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        android:orientation="vertical"
+        >
+        <TextView
+            android:id="@+id/currentVarieties_nothingToSeeHere_msg_top"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:textColor="#ffffff"
+            android:textStyle = "bold"
+            android:layout_gravity="center_horizontal"
+            />
+
+        <Button
+            android:id="@+id/currentVarieties_nothingToSeeHere_msg_bottom"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="12sp"
+            android:textColor="#ffffff"
+            android:background="@drawable/rounded_corner_button"
+            android:paddingHorizontal="18dp"
+            android:layout_marginTop="60dp"
+            android:textAllCaps="false"
+            />
+    </FrameLayout>
+    <android.support.v7.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="?attr/actionBarSize"
+        android:id="@+id/currentVarietiesRecyclerView"
+        android:scrollbars="vertical"
+        tools:listitem="@layout/current_variety_listitem"
+    />
+    <!--<android.support.v7.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_constraintTop_toBottomOf="@id/currentVarietiesToolbar"
+        android:id="@+id/currentVarietiesRecyclerView"
+        android:scrollbars="vertical"
+        tools:listitem="@layout/current_variety_listitem"
+        />-->
+    <!--<android.support.v7.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop = "?attr/actionBarSize"
+        android:layout_marginBottom="16dp"
+        android:id="@+id/currentVarietiesRecyclerView"
+        android:scrollbars="vertical"
+        tools:listitem="@layout/current_variety_listitem"
+        />-->
+</android.support.constraint.ConstraintLayout>

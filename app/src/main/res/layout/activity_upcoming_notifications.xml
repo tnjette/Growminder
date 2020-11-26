@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.tylerjette.growmindv05.Dashboard">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:id = "@+id/upcoming_notifications_activity_background_baseline"
+        android:src="@drawable/okra"/>
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/upcoming_notifications_background_filter_primary"
+        android:background="@color/background_standard"
+        />
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/upcoming_notifications_background_filter_secondary"
+        android:background="#40000000"
+        />
+
+    <android.support.v7.widget.Toolbar
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:id="@+id/upcoming_notification_toolbar"
+        android:theme="@style/HeaderBar"
+        android:elevation="4dp"
+        >
+        <LinearLayout
+            android:id="@+id/upcoming_notification_activity_toolbarLayout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/upcoming_notification_activity_title"
+                android:textColor="#ffffff"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_marginTop="5dp"
+                android:includeFontPadding="false"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/upcoming_notification_activity_subtitle"
+                android:textColor="#ffffff"
+                android:textSize="16sp"
+                android:textStyle="bold"
+                android:textAllCaps="false"
+                android:includeFontPadding="false"
+                />
+        </LinearLayout>
+    </android.support.v7.widget.Toolbar>
+
+    <!--<FrameLayout
+        android:id="@+id/upcomingNotifications_nothingToSeeHereMsgFrame"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        android:padding="16dp"
+        android:background="@drawable/enter_location_textedit"
+        >
+
+        <TextView
+            android:id="@+id/upcomingNotifications_nothingToSeeHere_msg_top"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:textColor="#ffffff"
+            android:textStyle = "bold"
+            android:layout_gravity="center_horizontal"
+            />
+
+    </FrameLayout>-->
+    <FrameLayout
+        android:id="@+id/upcomingNotifications_nothingToSeeHereMsgFrame"
+        android:layout_width="wrap_content"
+        android:layout_height="100dp"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        android:orientation="vertical"
+        > <!---the above layout_height used to be wrapcontent-->
+        <TextView
+            android:id="@+id/upcomingNotifications_nothingToSeeHere_msg_top"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:textColor="#ffffff"
+            android:textStyle = "bold"
+            android:layout_gravity="center_horizontal"
+            /><!---used to have android:paddingBottom = "48dp", was removed-->
+
+        <Button
+            android:id="@+id/upcomingNotifications_nothingToSeeHere_msg_bottom"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="12sp"
+            android:textColor="#ffffff"
+            android:background="@drawable/rounded_corner_button"
+            android:padding="8dp"
+            android:paddingHorizontal="18dp"
+            android:layout_marginTop="60dp"
+            android:textAllCaps="false"
+            /><!--Added
+            android:paddingHorizontal="18dp"
+            android:layout_marginTop="60dp"
+            android:textAllCaps="false"-->
+    </FrameLayout>
+
+    <!--<TextView
+        android:id="@+id/upcomingNotifications_nothingToSeeHere_msg_bottom"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="14sp"
+        app:layout_constraintTop_toBottomOf="@id/upcomingNotifications_nothingToSeeHereMsgFrame"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        android:layout_marginTop="24dp"
+        android:textColor="#ffffff"
+
+        />-->
+    <!--<TextView
+        android:id="@+id/userLocation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="32dp"
+        android:layout_marginLeft="32dp"
+        android:layout_marginBottom="32dp"
+        android:layout_marginTop="32dp"
+        android:paddingTop="30dp"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"/>
+
+    <TextView
+        android:id="@+id/userVarieties"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginTop="32dp"
+        app:layout_constraintBottom_toTopOf="@+id/dashboard_recycler_view"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/userLocation" />-->
+
+    <FrameLayout
+        android:id="@+id/upcoming_notifications_recycler_view_module"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@id/upcoming_notification_toolbar"
+        >
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/upcoming_notifications_recycler_view"
+            android:scrollbars="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            tools:listitem="@layout/upcoming_notification_item_row"
+            android:background="#ffffff"
+            android:layout_marginBottom="56dp"/>
+    </FrameLayout>
+    <!--<android.support.v7.widget.RecyclerView
+        android:id="@+id/dashboard_recycler_view"
+        android:scrollbars="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="120dp"
+        app:layout_constraintTop_toBottomOf="@+id/userVarieties"
+        tools:listitem="@layout/upcoming_notification_item_row" />OLD-->
+
+    <!--<LinearLayout
+        android:id="@+id/userVarietyMenu"
+        android:layout_width="match_parent"
+        android:layout_height="400dp"
+        android:orientation="vertical"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="163dp"
+        app:layout_constraintTop_toBottomOf="@id/userVarieties"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        >-->
+
+
+        <!--<ListView
+            android:id="@+id/mainListView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:layout_constraintTop_toBottomOf="@id/userVarieties" />-->
+
+    <!--</LinearLayout>-->
+
+</android.support.constraint.ConstraintLayout>
