@@ -15,7 +15,7 @@ Once configured, the system compiles and stores formatted Notifications per vari
 <h5> Calendars, visualizations</h5>
 The system allows for the user to explore the array of crop varieties in their configured agricultural zone, including calendars, growing cycle visualizations, and crop demands that may change throughout each growing cycle.
 
-\n\n\n
+<br />
 
 <img src = "screenshots/growminder_screenshot1.jpg" width = "400"> 
 <img src = "screenshots/growminder_screenshot2.jpg" width = "400">
