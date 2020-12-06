@@ -10,5 +10,5 @@ Growminder application built for Android. All data is internal, thereby eliminat
 # Future iterations : 
 
 Needs to be built with cross-platform framework, such as React Native or Flutter, to increase user base. Notification system needs to be updated.
-
+And, perhaps most importantly, needs to be built with thorough testing throughout the ENTIRE development timeline, and on a wide range of devices, not just your 5 year old Android phone, hard-wired to your laptop, Tyler.
 
