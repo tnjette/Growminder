@@ -2,7 +2,7 @@
 
 Growminder application built for Android. All data is internal, thereby eliminating any network dependencies. Built on a SQLite instance, with all of the usual Android stuff, including Notifications, which at this time, may be obsolete since it seems like Android Notifications have undergone some changes since the last development iteration. In other words, the Notification system may not function as it should. 
 
-<h5>Features: </h5>
+<h4>Features: </h4>
 
 Growminder configures to crop variety and user location specifications. Once the user configures their location, the system refers to the internal database, and retrieves the growing information that is relevant to the varieties that are capable of being grown in that location. This is based on USDA Agricultural zones across the US. The database is organized per agricultural zone, per variety, and therefore the information made available to the user is completely dependent on the location they enter into the system. Subsequently, based on the user's growing interests, the system provides information per crop variety that is configured to that specific agricultural zone. 
     
