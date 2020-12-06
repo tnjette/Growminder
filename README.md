@@ -4,11 +4,11 @@ Growminder application built for Android. All data is internal, thereby eliminat
 
 Features: 
 
-    Growminder configures to crop variety and user location specifications. Once the user configures their location, the system refers to the internal database, and retrieves the growing information that is relevant to the varieties that are capable of being grown in that location. This is based on USDA Agricultural zones across the US. The database is organized per agricultural zone, per variety, and therefore the information made available to the user is completely dependent on the location they enter into the system. Subsequently, based on the user's growing interests, the system provides information per crop variety that is configured to that specific agricultural zone. 
+Growminder configures to crop variety and user location specifications. Once the user configures their location, the system refers to the internal database, and retrieves the growing information that is relevant to the varieties that are capable of being grown in that location. This is based on USDA Agricultural zones across the US. The database is organized per agricultural zone, per variety, and therefore the information made available to the user is completely dependent on the location they enter into the system. Subsequently, based on the user's growing interests, the system provides information per crop variety that is configured to that specific agricultural zone. 
     
-    Once configured, the system compiles and stores formatted Notifications per variety, each of which are refered to by the notification system, by date, to be sent to the user's device when relevant. 
+Once configured, the system compiles and stores formatted Notifications per variety, each of which are refered to by the notification system, by date, to be sent to the user's device when relevant. 
     
-    The system allows for the user to explore the array of crop varieties in their configured agricultural zone, including calendars, growing cycle visualizations, and crop demands that may change throughout each growing cycle.
+The system allows for the user to explore the array of crop varieties in their configured agricultural zone, including calendars, growing cycle visualizations, and crop demands that may change throughout each growing cycle.
 
 <img src = "screenshots/growminder_screenshot1.jpg" width = "400"> 
 <img src = "screenshots/growminder_screenshot2.jpg" width = "400">
