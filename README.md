@@ -20,3 +20,7 @@ The system allows for the user to explore the array of crop varieties in their c
 Needs to be built with cross-platform framework, such as React Native or Flutter, to increase user base. Notification system needs to be updated.
 And, perhaps most importantly, needs to be built with thorough testing throughout the ENTIRE development timeline, and on a wide range of devices, not just your 5 year old Android phone, hard-wired to your laptop, Tyler.
 
+<h3>Future features : </h3>
+• Real-time meteorological monitering, to enable notifying users of potential frosts. 
+• Variety template to allow users to enter their own growing data for varieties not availble in the database.
+
